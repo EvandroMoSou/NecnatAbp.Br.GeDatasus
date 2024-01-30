@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "NecnatAbp.Br.GeDatasus.Domain.Shared": {
+      "path": "src/NecnatAbp.Br.GeDatasus.Domain.Shared/NecnatAbp.Br.GeDatasus.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.Domain": {
+      "path": "src/NecnatAbp.Br.GeDatasus.Domain/NecnatAbp.Br.GeDatasus.Domain.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.Application.Contracts": {
+      "path": "src/NecnatAbp.Br.GeDatasus.Application.Contracts/NecnatAbp.Br.GeDatasus.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.Application": {
+      "path": "src/NecnatAbp.Br.GeDatasus.Application/NecnatAbp.Br.GeDatasus.Application.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.EntityFrameworkCore": {
+      "path": "src/NecnatAbp.Br.GeDatasus.EntityFrameworkCore/NecnatAbp.Br.GeDatasus.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.MongoDB": {
+      "path": "src/NecnatAbp.Br.GeDatasus.MongoDB/NecnatAbp.Br.GeDatasus.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.HttpApi": {
+      "path": "src/NecnatAbp.Br.GeDatasus.HttpApi/NecnatAbp.Br.GeDatasus.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.HttpApi.Client": {
+      "path": "src/NecnatAbp.Br.GeDatasus.HttpApi.Client/NecnatAbp.Br.GeDatasus.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.TestBase": {
+      "path": "test/NecnatAbp.Br.GeDatasus.TestBase/NecnatAbp.Br.GeDatasus.TestBase.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GeDatasus.EntityFrameworkCore.Tests": {
+      "path": "test/NecnatAbp.Br.GeDatasus.EntityFrameworkCore.Tests/NecnatAbp.Br.GeDatasus.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GeDatasus.MongoDB.Tests": {
+      "path": "test/NecnatAbp.Br.GeDatasus.MongoDB.Tests/NecnatAbp.Br.GeDatasus.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GeDatasus.Domain.Tests": {
+      "path": "test/NecnatAbp.Br.GeDatasus.Domain.Tests/NecnatAbp.Br.GeDatasus.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GeDatasus.Application.Tests": {
+      "path": "test/NecnatAbp.Br.GeDatasus.Application.Tests/NecnatAbp.Br.GeDatasus.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GeDatasus.HttpApi.Host": {
+      "path": "host/NecnatAbp.Br.GeDatasus.HttpApi.Host/NecnatAbp.Br.GeDatasus.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GeDatasus.Web": {
+      "path": "src/NecnatAbp.Br.GeDatasus.Web/NecnatAbp.Br.GeDatasus.Web.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/NecnatAbp.Br.GeDatasus.HttpApi.Client.ConsoleTestApp/NecnatAbp.Br.GeDatasus.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Br.GeDatasus.Web.Host": {
+      "path": "host/NecnatAbp.Br.GeDatasus.Web.Host/NecnatAbp.Br.GeDatasus.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GeDatasus.AuthServer": {
+      "path": "host/NecnatAbp.Br.GeDatasus.AuthServer/NecnatAbp.Br.GeDatasus.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GeDatasus.Host.Shared": {
+      "path": "host/NecnatAbp.Br.GeDatasus.Host.Shared/NecnatAbp.Br.GeDatasus.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GeDatasus.Web.Unified": {
+      "path": "host/NecnatAbp.Br.GeDatasus.Web.Unified/NecnatAbp.Br.GeDatasus.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GeDatasus.Blazor": {
+      "path": "src/NecnatAbp.Br.GeDatasus.Blazor/NecnatAbp.Br.GeDatasus.Blazor.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.Blazor.Host": {
+      "path": "host/NecnatAbp.Br.GeDatasus.Blazor.Host/NecnatAbp.Br.GeDatasus.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Br.GeDatasus.Blazor.Server": {
+      "path": "src/NecnatAbp.Br.GeDatasus.Blazor.Server/NecnatAbp.Br.GeDatasus.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.Blazor.WebAssembly": {
+      "path": "src/NecnatAbp.Br.GeDatasus.Blazor.WebAssembly/NecnatAbp.Br.GeDatasus.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Br.GeDatasus.Blazor.Server.Host": {
+      "path": "host/NecnatAbp.Br.GeDatasus.Blazor.Server.Host/NecnatAbp.Br.GeDatasus.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}

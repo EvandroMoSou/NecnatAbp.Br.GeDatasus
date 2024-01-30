@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>NecnatAbp.Br.GeDatasus</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="8.0.0" />
+    <ProjectReference Include="..\..\src\NecnatAbp.Br.GeDatasus.EntityFrameworkCore\NecnatAbp.Br.GeDatasus.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\NecnatAbp.Br.GeDatasus.Application.Tests\NecnatAbp.Br.GeDatasus.Application.Tests.csproj" />
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore.Sqlite" Version="8.0.2" />
+
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "NecnatAbp.Br.GeDatasus": {
+      "path": "NecnatAbp.Br.GeDatasus.abpmdl"
+    }
+  }
+}

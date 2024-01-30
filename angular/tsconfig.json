@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "paths": {
+      "@necnat-abp.Br/ge-datasus": [
+        "projects/ge-datasus/src/public-api.ts"
+      ],
+      "@necnat-abp.Br/ge-datasus/config": [
+        "projects/ge-datasus/config/src/public-api.ts"
+      ],
+      "@proxy": ["projects/ge-datasus/src/lib/proxy/index.ts"],
+      "@proxy/*": ["projects/ge-datasus/src/lib/proxy/*"]
+    }
+  }
+}

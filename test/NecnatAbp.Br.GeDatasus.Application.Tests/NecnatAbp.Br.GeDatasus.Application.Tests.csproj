@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>NecnatAbp.Br.GeDatasus</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\NecnatAbp.Br.GeDatasus.Application\NecnatAbp.Br.GeDatasus.Application.csproj" />
+    <ProjectReference Include="..\NecnatAbp.Br.GeDatasus.Domain.Tests\NecnatAbp.Br.GeDatasus.Domain.Tests.csproj" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+  </ItemGroup>
+
+</Project>
