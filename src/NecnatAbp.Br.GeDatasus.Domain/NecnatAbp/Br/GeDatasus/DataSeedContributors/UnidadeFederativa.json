@@ -1,0 +1,137 @@
+[
+  {
+    "CodigoLediAps": "01",
+    "Sigla": "AC",
+    "Nome": "ACRE"
+  },
+  {
+    "CodigoLediAps": "02",
+    "Sigla": "AL",
+    "Nome": "ALAGOAS"
+  },
+  {
+    "CodigoLediAps": "03",
+    "Sigla": "AP",
+    "Nome": "AMAPÁ"
+  },
+  {
+    "CodigoLediAps": "04",
+    "Sigla": "AM",
+    "Nome": "AMAZONAS"
+  },
+  {
+    "CodigoLediAps": "05",
+    "Sigla": "BA",
+    "Nome": "BAHIA"
+  },
+  {
+    "CodigoLediAps": "06",
+    "Sigla": "CE",
+    "Nome": "CEARÁ"
+  },
+  {
+    "CodigoLediAps": "07",
+    "Sigla": "DF",
+    "Nome": "DISTRITO FEDERAL"
+  },
+  {
+    "CodigoLediAps": "08",
+    "Sigla": "ES",
+    "Nome": "ESPÍRITO SANTO"
+  },
+  {
+    "CodigoLediAps": "10",
+    "Sigla": "GO",
+    "Nome": "GOIÁS"
+  },
+  {
+    "CodigoLediAps": "11",
+    "Sigla": "MA",
+    "Nome": "MARANHÃO"
+  },
+  {
+    "CodigoLediAps": "12",
+    "Sigla": "MT",
+    "Nome": "MATO GROSSO"
+  },
+  {
+    "CodigoLediAps": "13",
+    "Sigla": "MS",
+    "Nome": "MATO GROSSO DO SUL"
+  },
+  {
+    "CodigoLediAps": "14",
+    "Sigla": "MG",
+    "Nome": "MINAS GERAIS"
+  },
+  {
+    "CodigoLediAps": "15",
+    "Sigla": "PA",
+    "Nome": "PARÁ"
+  },
+  {
+    "CodigoLediAps": "16",
+    "Sigla": "PB",
+    "Nome": "PARAÍBA"
+  },
+  {
+    "CodigoLediAps": "17",
+    "Sigla": "PR",
+    "Nome": "PARANÁ"
+  },
+  {
+    "CodigoLediAps": "18",
+    "Sigla": "PE",
+    "Nome": "PERNAMBUCO"
+  },
+  {
+    "CodigoLediAps": "19",
+    "Sigla": "PI",
+    "Nome": "PIAUÍ"
+  },
+  {
+    "CodigoLediAps": "20",
+    "Sigla": "RJ",
+    "Nome": "RIO DE JANEIRO"
+  },
+  {
+    "CodigoLediAps": "21",
+    "Sigla": "RN",
+    "Nome": "RIO GRANDE DO NORTE"
+  },
+  {
+    "CodigoLediAps": "22",
+    "Sigla": "RS",
+    "Nome": "RIO GRANDE DO SUL"
+  },
+  {
+    "CodigoLediAps": "23",
+    "Sigla": "RO",
+    "Nome": "RONDÔNIA"
+  },
+  {
+    "CodigoLediAps": "09",
+    "Sigla": "RR",
+    "Nome": "RORAIMA"
+  },
+  {
+    "CodigoLediAps": "25",
+    "Sigla": "SC",
+    "Nome": "SANTA CATARINA"
+  },
+  {
+    "CodigoLediAps": "26",
+    "Sigla": "SP",
+    "Nome": "SÃO PAULO"
+  },
+  {
+    "CodigoLediAps": "27",
+    "Sigla": "SE",
+    "Nome": "SERGIPE"
+  },
+  {
+    "CodigoLediAps": "24",
+    "Sigla": "TO",
+    "Nome": "TOCANTINS"
+  }
+]

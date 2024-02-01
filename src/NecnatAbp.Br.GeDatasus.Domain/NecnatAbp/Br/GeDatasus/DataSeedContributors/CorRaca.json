@@ -1,0 +1,32 @@
+[
+  {
+    "CodigoLediAps": 1,
+    "CodigoCadSus": "01",
+    "Nome": "Branca"
+  },
+  {
+    "CodigoLediAps": 2,
+    "CodigoCadSus": "02",
+    "Nome": "Preta"
+  },
+  {
+    "CodigoLediAps": 3,
+    "CodigoCadSus": "03",
+    "Nome": "Parda"
+  },
+  {
+    "CodigoLediAps": 4,
+    "CodigoCadSus": "04",
+    "Nome": "Amarela"
+  },
+  {
+    "CodigoLediAps": 5,
+    "CodigoCadSus": "05",
+    "Nome": "Indígena"
+  },
+  {
+    "CodigoLediAps": 6,
+    "CodigoCadSus": "99",
+    "Nome": "Sem informação"
+  }
+]

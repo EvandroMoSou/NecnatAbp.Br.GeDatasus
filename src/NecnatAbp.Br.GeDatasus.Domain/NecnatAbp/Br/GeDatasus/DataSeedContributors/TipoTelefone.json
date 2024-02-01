@@ -1,0 +1,38 @@
+[
+  {
+    "CodigoCadSus": "1",
+    "Nome": "RESIDENCIAL"
+  },
+  {
+    "CodigoCadSus": "2",
+    "Nome": "COMERCIAL"
+  },
+  {
+    "CodigoCadSus": "3",
+    "Nome": "CELULAR"
+  },
+  {
+    "CodigoCadSus": "4",
+    "Nome": "FAX"
+  },
+  {
+    "CodigoCadSus": "5",
+    "Nome": "BIP"
+  },
+  {
+    "CodigoCadSus": "6",
+    "Nome": "CONTATO"
+  },
+  {
+    "CodigoCadSus": "7",
+    "Nome": "OUTRO"
+  },
+  {
+    "CodigoCadSus": "8",
+    "Nome": "PÚBLICO"
+  },
+  {
+    "CodigoCadSus": "9",
+    "Nome": "CELULAR CORPORATIVO"
+  }
+]

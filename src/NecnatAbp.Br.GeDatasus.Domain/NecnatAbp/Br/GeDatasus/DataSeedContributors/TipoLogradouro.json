@@ -1,0 +1,1134 @@
+[
+  {
+    "CodigoCadSus": "001",
+    "Nome": "ACESSO"
+  },
+  {
+    "CodigoCadSus": "002",
+    "Nome": "ADRO"
+  },
+  {
+    "CodigoCadSus": "004",
+    "Nome": "ALAMEDA"
+  },
+  {
+    "CodigoCadSus": "005",
+    "Nome": "ALTA"
+  },
+  {
+    "CodigoCadSus": "007",
+    "Nome": "ATALHO"
+  },
+  {
+    "CodigoCadSus": "008",
+    "Nome": "AVENIDA"
+  },
+  {
+    "CodigoCadSus": "009",
+    "Nome": "BALNEARIO"
+  },
+  {
+    "CodigoCadSus": "010",
+    "Nome": "BELVEDERE"
+  },
+  {
+    "CodigoCadSus": "011",
+    "Nome": "BECO"
+  },
+  {
+    "CodigoCadSus": "012",
+    "Nome": "BLOCO"
+  },
+  {
+    "CodigoCadSus": "013",
+    "Nome": "BOSQUE"
+  },
+  {
+    "CodigoCadSus": "014",
+    "Nome": "BOULEVARD"
+  },
+  {
+    "CodigoCadSus": "015",
+    "Nome": "BAIXA"
+  },
+  {
+    "CodigoCadSus": "016",
+    "Nome": "CAIS"
+  },
+  {
+    "CodigoCadSus": "017",
+    "Nome": "CAMINHO"
+  },
+  {
+    "CodigoCadSus": "019",
+    "Nome": "CHAPADAO"
+  },
+  {
+    "CodigoCadSus": "020",
+    "Nome": "CONJUNTO"
+  },
+  {
+    "CodigoCadSus": "021",
+    "Nome": "COLONIA"
+  },
+  {
+    "CodigoCadSus": "022",
+    "Nome": "CORREDOR"
+  },
+  {
+    "CodigoCadSus": "023",
+    "Nome": "CAMPO"
+  },
+  {
+    "CodigoCadSus": "024",
+    "Nome": "CORREGO"
+  },
+  {
+    "CodigoCadSus": "027",
+    "Nome": "DESVIO"
+  },
+  {
+    "CodigoCadSus": "028",
+    "Nome": "DISTRITO"
+  },
+  {
+    "CodigoCadSus": "030",
+    "Nome": "ESCADA"
+  },
+  {
+    "CodigoCadSus": "031",
+    "Nome": "ESTRADA"
+  },
+  {
+    "CodigoCadSus": "032",
+    "Nome": "ESTACAO"
+  },
+  {
+    "CodigoCadSus": "033",
+    "Nome": "ESTADIO"
+  },
+  {
+    "CodigoCadSus": "036",
+    "Nome": "FAVELA"
+  },
+  {
+    "CodigoCadSus": "037",
+    "Nome": "FAZENDA"
+  },
+  {
+    "CodigoCadSus": "038",
+    "Nome": "FERROVIA"
+  },
+  {
+    "CodigoCadSus": "039",
+    "Nome": "FONTE"
+  },
+  {
+    "CodigoCadSus": "040",
+    "Nome": "FEIRA"
+  },
+  {
+    "CodigoCadSus": "043",
+    "Nome": "FORTE"
+  },
+  {
+    "CodigoCadSus": "045",
+    "Nome": "GALERIA"
+  },
+  {
+    "CodigoCadSus": "046",
+    "Nome": "GRANJA"
+  },
+  {
+    "CodigoCadSus": "050",
+    "Nome": "ILHA"
+  },
+  {
+    "CodigoCadSus": "052",
+    "Nome": "JARDIM"
+  },
+  {
+    "CodigoCadSus": "053",
+    "Nome": "LADEIRA"
+  },
+  {
+    "CodigoCadSus": "054",
+    "Nome": "LARGO"
+  },
+  {
+    "CodigoCadSus": "055",
+    "Nome": "LAGOA"
+  },
+  {
+    "CodigoCadSus": "056",
+    "Nome": "LOTEAMENTO"
+  },
+  {
+    "CodigoCadSus": "059",
+    "Nome": "MORRO"
+  },
+  {
+    "CodigoCadSus": "060",
+    "Nome": "MONTE"
+  },
+  {
+    "CodigoCadSus": "062",
+    "Nome": "PARALELA"
+  },
+  {
+    "CodigoCadSus": "063",
+    "Nome": "PASSEIO"
+  },
+  {
+    "CodigoCadSus": "064",
+    "Nome": "PATIO"
+  },
+  {
+    "CodigoCadSus": "065",
+    "Nome": "PRACA"
+  },
+  {
+    "CodigoCadSus": "067",
+    "Nome": "PARADA"
+  },
+  {
+    "CodigoCadSus": "070",
+    "Nome": "PRAIA"
+  },
+  {
+    "CodigoCadSus": "071",
+    "Nome": "PROLONGAMENTO"
+  },
+  {
+    "CodigoCadSus": "072",
+    "Nome": "PARQUE"
+  },
+  {
+    "CodigoCadSus": "073",
+    "Nome": "PASSARELA"
+  },
+  {
+    "CodigoCadSus": "074",
+    "Nome": "PASSAGEM"
+  },
+  {
+    "CodigoCadSus": "076",
+    "Nome": "PONTE"
+  },
+  {
+    "CodigoCadSus": "077",
+    "Nome": "QUADRA"
+  },
+  {
+    "CodigoCadSus": "079",
+    "Nome": "QUINTA"
+  },
+  {
+    "CodigoCadSus": "081",
+    "Nome": "RUA"
+  },
+  {
+    "CodigoCadSus": "082",
+    "Nome": "RAMAL"
+  },
+  {
+    "CodigoCadSus": "087",
+    "Nome": "RECANTO"
+  },
+  {
+    "CodigoCadSus": "088",
+    "Nome": "RETIRO"
+  },
+  {
+    "CodigoCadSus": "089",
+    "Nome": "RETA"
+  },
+  {
+    "CodigoCadSus": "090",
+    "Nome": "RODOVIA"
+  },
+  {
+    "CodigoCadSus": "091",
+    "Nome": "RETORNO"
+  },
+  {
+    "CodigoCadSus": "092",
+    "Nome": "SITIO"
+  },
+  {
+    "CodigoCadSus": "094",
+    "Nome": "SERVIDAO"
+  },
+  {
+    "CodigoCadSus": "095",
+    "Nome": "SETOR"
+  },
+  {
+    "CodigoCadSus": "096",
+    "Nome": "SUBIDA"
+  },
+  {
+    "CodigoCadSus": "097",
+    "Nome": "TRINCHEIRA"
+  },
+  {
+    "CodigoCadSus": "098",
+    "Nome": "TERMINAL"
+  },
+  {
+    "CodigoCadSus": "099",
+    "Nome": "TREVO"
+  },
+  {
+    "CodigoCadSus": "100",
+    "Nome": "TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "101",
+    "Nome": "VIA"
+  },
+  {
+    "CodigoCadSus": "103",
+    "Nome": "VIADUTO"
+  },
+  {
+    "CodigoCadSus": "104",
+    "Nome": "VILA"
+  },
+  {
+    "CodigoCadSus": "105",
+    "Nome": "VIELA"
+  },
+  {
+    "CodigoCadSus": "106",
+    "Nome": "VALE"
+  },
+  {
+    "CodigoCadSus": "108",
+    "Nome": "ZIGUE-ZAGUE"
+  },
+  {
+    "CodigoCadSus": "452",
+    "Nome": "TRECHO"
+  },
+  {
+    "CodigoCadSus": "453",
+    "Nome": "VEREDA"
+  },
+  {
+    "CodigoCadSus": "465",
+    "Nome": "ARTERIA"
+  },
+  {
+    "CodigoCadSus": "468",
+    "Nome": "ELEVADA"
+  },
+  {
+    "CodigoCadSus": "469",
+    "Nome": "PORTO"
+  },
+  {
+    "CodigoCadSus": "470",
+    "Nome": "BALAO"
+  },
+  {
+    "CodigoCadSus": "471",
+    "Nome": "PARADOURO"
+  },
+  {
+    "CodigoCadSus": "472",
+    "Nome": "AREA"
+  },
+  {
+    "CodigoCadSus": "473",
+    "Nome": "JARDINETE"
+  },
+  {
+    "CodigoCadSus": "474",
+    "Nome": "ESPLANADA"
+  },
+  {
+    "CodigoCadSus": "475",
+    "Nome": "QUINTAS"
+  },
+  {
+    "CodigoCadSus": "476",
+    "Nome": "ROTULA"
+  },
+  {
+    "CodigoCadSus": "477",
+    "Nome": "MARINA"
+  },
+  {
+    "CodigoCadSus": "478",
+    "Nome": "DESCIDA"
+  },
+  {
+    "CodigoCadSus": "479",
+    "Nome": "CIRCULAR"
+  },
+  {
+    "CodigoCadSus": "480",
+    "Nome": "UNIDADE"
+  },
+  {
+    "CodigoCadSus": "481",
+    "Nome": "CHACARA"
+  },
+  {
+    "CodigoCadSus": "482",
+    "Nome": "RAMPA"
+  },
+  {
+    "CodigoCadSus": "483",
+    "Nome": "PONTA"
+  },
+  {
+    "CodigoCadSus": "484",
+    "Nome": "VIA DE PEDESTRE"
+  },
+  {
+    "CodigoCadSus": "485",
+    "Nome": "CONDOMINIO"
+  },
+  {
+    "CodigoCadSus": "486",
+    "Nome": "NUCLEO HABITACIONAL"
+  },
+  {
+    "CodigoCadSus": "487",
+    "Nome": "RESIDENCIAL"
+  },
+  {
+    "CodigoCadSus": "495",
+    "Nome": "CANAL"
+  },
+  {
+    "CodigoCadSus": "496",
+    "Nome": "BURACO"
+  },
+  {
+    "CodigoCadSus": "497",
+    "Nome": "MODULO"
+  },
+  {
+    "CodigoCadSus": "498",
+    "Nome": "ESTANCIA"
+  },
+  {
+    "CodigoCadSus": "499",
+    "Nome": "LAGO"
+  },
+  {
+    "CodigoCadSus": "500",
+    "Nome": "NUCLEO"
+  },
+  {
+    "CodigoCadSus": "501",
+    "Nome": "AEROPORTO"
+  },
+  {
+    "CodigoCadSus": "502",
+    "Nome": "PASSAGEM SUBTERRANEA"
+  },
+  {
+    "CodigoCadSus": "503",
+    "Nome": "COMPLEXO VIARIO"
+  },
+  {
+    "CodigoCadSus": "504",
+    "Nome": "PRACA DE ESPORTES"
+  },
+  {
+    "CodigoCadSus": "505",
+    "Nome": "VIA ELEVADO"
+  },
+  {
+    "CodigoCadSus": "506",
+    "Nome": "ROTATORIA"
+  },
+  {
+    "CodigoCadSus": "507",
+    "Nome": "1A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "508",
+    "Nome": "2A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "509",
+    "Nome": "3A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "510",
+    "Nome": "4A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "511",
+    "Nome": "5A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "512",
+    "Nome": "6A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "513",
+    "Nome": "7A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "514",
+    "Nome": "8A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "515",
+    "Nome": "9A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "516",
+    "Nome": "10A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "517",
+    "Nome": "11A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "518",
+    "Nome": "12A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "519",
+    "Nome": "13A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "520",
+    "Nome": "14A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "521",
+    "Nome": "15A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "522",
+    "Nome": "16A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "523",
+    "Nome": "1O ALTA"
+  },
+  {
+    "CodigoCadSus": "524",
+    "Nome": "2O ALTA"
+  },
+  {
+    "CodigoCadSus": "525",
+    "Nome": "3O ALTA"
+  },
+  {
+    "CodigoCadSus": "526",
+    "Nome": "4O ALTA"
+  },
+  {
+    "CodigoCadSus": "527",
+    "Nome": "5O ALTA"
+  },
+  {
+    "CodigoCadSus": "528",
+    "Nome": "1O BECO"
+  },
+  {
+    "CodigoCadSus": "529",
+    "Nome": "2O BECO"
+  },
+  {
+    "CodigoCadSus": "530",
+    "Nome": "3O BECO"
+  },
+  {
+    "CodigoCadSus": "531",
+    "Nome": "4O BECO"
+  },
+  {
+    "CodigoCadSus": "532",
+    "Nome": "5O BECO"
+  },
+  {
+    "CodigoCadSus": "533",
+    "Nome": "1A PARALELA"
+  },
+  {
+    "CodigoCadSus": "534",
+    "Nome": "2A PARALELA"
+  },
+  {
+    "CodigoCadSus": "535",
+    "Nome": "3A PARALELA"
+  },
+  {
+    "CodigoCadSus": "536",
+    "Nome": "4A PARALELA"
+  },
+  {
+    "CodigoCadSus": "537",
+    "Nome": "5A PARALELA"
+  },
+  {
+    "CodigoCadSus": "538",
+    "Nome": "1A SUBIDA"
+  },
+  {
+    "CodigoCadSus": "539",
+    "Nome": "2A SUBIDA"
+  },
+  {
+    "CodigoCadSus": "540",
+    "Nome": "3A SUBIDA"
+  },
+  {
+    "CodigoCadSus": "541",
+    "Nome": "4A SUBIDA"
+  },
+  {
+    "CodigoCadSus": "542",
+    "Nome": "5A SUBIDA"
+  },
+  {
+    "CodigoCadSus": "543",
+    "Nome": "6A SUBIDA"
+  },
+  {
+    "CodigoCadSus": "544",
+    "Nome": "1A VILA"
+  },
+  {
+    "CodigoCadSus": "545",
+    "Nome": "2A VILA"
+  },
+  {
+    "CodigoCadSus": "546",
+    "Nome": "3A VILA"
+  },
+  {
+    "CodigoCadSus": "547",
+    "Nome": "4A VILA"
+  },
+  {
+    "CodigoCadSus": "548",
+    "Nome": "5A VILA"
+  },
+  {
+    "CodigoCadSus": "549",
+    "Nome": "1O PARQUE"
+  },
+  {
+    "CodigoCadSus": "550",
+    "Nome": "2O PARQUE"
+  },
+  {
+    "CodigoCadSus": "551",
+    "Nome": "3O PARQUE"
+  },
+  {
+    "CodigoCadSus": "552",
+    "Nome": "1A RUA"
+  },
+  {
+    "CodigoCadSus": "553",
+    "Nome": "2A RUA"
+  },
+  {
+    "CodigoCadSus": "554",
+    "Nome": "3A RUA"
+  },
+  {
+    "CodigoCadSus": "555",
+    "Nome": "5A RUA"
+  },
+  {
+    "CodigoCadSus": "556",
+    "Nome": "4A RUA"
+  },
+  {
+    "CodigoCadSus": "557",
+    "Nome": "6A RUA"
+  },
+  {
+    "CodigoCadSus": "558",
+    "Nome": "7A RUA"
+  },
+  {
+    "CodigoCadSus": "559",
+    "Nome": "8A RUA"
+  },
+  {
+    "CodigoCadSus": "560",
+    "Nome": "9A RUA"
+  },
+  {
+    "CodigoCadSus": "561",
+    "Nome": "10A RUA"
+  },
+  {
+    "CodigoCadSus": "562",
+    "Nome": "11A RUA"
+  },
+  {
+    "CodigoCadSus": "563",
+    "Nome": "12A RUA"
+  },
+  {
+    "CodigoCadSus": "564",
+    "Nome": "ESTACIONAMENTO"
+  },
+  {
+    "CodigoCadSus": "565",
+    "Nome": "VALA"
+  },
+  {
+    "CodigoCadSus": "566",
+    "Nome": "RUA DE PEDESTRE"
+  },
+  {
+    "CodigoCadSus": "567",
+    "Nome": "TUNEL"
+  },
+  {
+    "CodigoCadSus": "568",
+    "Nome": "VARIANTE"
+  },
+  {
+    "CodigoCadSus": "569",
+    "Nome": "RODO ANEL"
+  },
+  {
+    "CodigoCadSus": "570",
+    "Nome": "TRAVESSA PARTICULAR"
+  },
+  {
+    "CodigoCadSus": "571",
+    "Nome": "CALCADA"
+  },
+  {
+    "CodigoCadSus": "572",
+    "Nome": "VIA DE ACESSO"
+  },
+  {
+    "CodigoCadSus": "573",
+    "Nome": "ENTRADA PARTICULAR"
+  },
+  {
+    "CodigoCadSus": "645",
+    "Nome": "ACAMPAMENTO"
+  },
+  {
+    "CodigoCadSus": "646",
+    "Nome": "VIA EXPRESSA"
+  },
+  {
+    "CodigoCadSus": "650",
+    "Nome": "ESTRADA MUNICIPAL"
+  },
+  {
+    "CodigoCadSus": "651",
+    "Nome": "AVENIDA CONTORNO"
+  },
+  {
+    "CodigoCadSus": "652",
+    "Nome": "ENTRE QUADRA"
+  },
+  {
+    "CodigoCadSus": "653",
+    "Nome": "RUA DE LIGACAO"
+  },
+  {
+    "CodigoCadSus": "654",
+    "Nome": "AREA ESPECIAL"
+  },
+  {
+    "CodigoCadSus": "655",
+    "Nome": "1A AVENIDA"
+  },
+  {
+    "CodigoCadSus": "656",
+    "Nome": "2A AVENIDA"
+  },
+  {
+    "CodigoCadSus": "657",
+    "Nome": "3A AVENIDA"
+  },
+  {
+    "CodigoCadSus": "658",
+    "Nome": "4A AVENIDA"
+  },
+  {
+    "CodigoCadSus": "659",
+    "Nome": "18A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "660",
+    "Nome": "19A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "661",
+    "Nome": "5A AVENIDA"
+  },
+  {
+    "CodigoCadSus": "662",
+    "Nome": "RECREIO"
+  },
+  {
+    "CodigoCadSus": "663",
+    "Nome": "PARQUE MUNICIPAL"
+  },
+  {
+    "CodigoCadSus": "664",
+    "Nome": "CONJUNTO MUTIRAO"
+  },
+  {
+    "CodigoCadSus": "665",
+    "Nome": "PARQUE RESIDENCIAL"
+  },
+  {
+    "CodigoCadSus": "666",
+    "Nome": "VIA LOCAL"
+  },
+  {
+    "CodigoCadSus": "667",
+    "Nome": "ACESSO LOCAL"
+  },
+  {
+    "CodigoCadSus": "668",
+    "Nome": "VIA COLETORA"
+  },
+  {
+    "CodigoCadSus": "669",
+    "Nome": "RUA PARTICULAR"
+  },
+  {
+    "CodigoCadSus": "670",
+    "Nome": "RUA INTEGRACAO"
+  },
+  {
+    "CodigoCadSus": "671",
+    "Nome": "ESTRADA VELHA"
+  },
+  {
+    "CodigoCadSus": "672",
+    "Nome": "RUA VELHA"
+  },
+  {
+    "CodigoCadSus": "673",
+    "Nome": "TRAVESSA VELHA"
+  },
+  {
+    "CodigoCadSus": "674",
+    "Nome": "ANTIGA ESTRADA"
+  },
+  {
+    "CodigoCadSus": "675",
+    "Nome": "ESTRADA DE LIGACAO"
+  },
+  {
+    "CodigoCadSus": "676",
+    "Nome": "ESTRADA ESTADUAL"
+  },
+  {
+    "CodigoCadSus": "677",
+    "Nome": "AVENIDA MARGINAL"
+  },
+  {
+    "CodigoCadSus": "678",
+    "Nome": "AVENIDA VELHA"
+  },
+  {
+    "CodigoCadSus": "679",
+    "Nome": "AVENIDA MARGINAL ESQUERDA"
+  },
+  {
+    "CodigoCadSus": "680",
+    "Nome": "AVENIDA MARGINAL DIREITA"
+  },
+  {
+    "CodigoCadSus": "681",
+    "Nome": "ESTRADA PARTICULAR"
+  },
+  {
+    "CodigoCadSus": "682",
+    "Nome": "ESTRADA ANTIGA"
+  },
+  {
+    "CodigoCadSus": "683",
+    "Nome": "6A AVENIDA"
+  },
+  {
+    "CodigoCadSus": "685",
+    "Nome": "VIA LITORANEA"
+  },
+  {
+    "CodigoCadSus": "686",
+    "Nome": "CONTORNO"
+  },
+  {
+    "CodigoCadSus": "687",
+    "Nome": "BLOCOS"
+  },
+  {
+    "CodigoCadSus": "688",
+    "Nome": "CICLOVIA"
+  },
+  {
+    "CodigoCadSus": "689",
+    "Nome": "BULEVAR"
+  },
+  {
+    "CodigoCadSus": "690",
+    "Nome": "ESCADARIA"
+  },
+  {
+    "CodigoCadSus": "691",
+    "Nome": "PRIMEIRA LADEIRA"
+  },
+  {
+    "CodigoCadSus": "692",
+    "Nome": "2A LADEIRA"
+  },
+  {
+    "CodigoCadSus": "693",
+    "Nome": "3A LADEIRA"
+  },
+  {
+    "CodigoCadSus": "694",
+    "Nome": "QUARTA LADEIRA"
+  },
+  {
+    "CodigoCadSus": "695",
+    "Nome": "QUINTA LADEIRA"
+  },
+  {
+    "CodigoCadSus": "696",
+    "Nome": "PASSAGEM DE PEDESTRES"
+  },
+  {
+    "CodigoCadSus": "697",
+    "Nome": "ESTRADA VICINAL"
+  },
+  {
+    "CodigoCadSus": "698",
+    "Nome": "RUA PROJETADA"
+  },
+  {
+    "CodigoCadSus": "699",
+    "Nome": "RUA PRINCIPAL"
+  },
+  {
+    "CodigoCadSus": "700",
+    "Nome": "TERCEIRA AVENIDA"
+  },
+  {
+    "CodigoCadSus": "701",
+    "Nome": "SEGUNDA AVENIDA"
+  },
+  {
+    "CodigoCadSus": "702",
+    "Nome": "PASSEIO PUBLICO"
+  },
+  {
+    "CodigoCadSus": "704",
+    "Nome": "ENTRE BLOCO"
+  },
+  {
+    "CodigoCadSus": "705",
+    "Nome": "ENSEADA"
+  },
+  {
+    "CodigoCadSus": "706",
+    "Nome": "ILHOTA"
+  },
+  {
+    "CodigoCadSus": "707",
+    "Nome": "VIA DE PEDESTRES"
+  },
+  {
+    "CodigoCadSus": "708",
+    "Nome": "2A TRAVESSA DA RODOVIA"
+  },
+  {
+    "CodigoCadSus": "709",
+    "Nome": "1A TRAVESSA DA RODOVIA"
+  },
+  {
+    "CodigoCadSus": "710",
+    "Nome": "ESTRADA INTERMUNICIPAL"
+  },
+  {
+    "CodigoCadSus": "711",
+    "Nome": "VIA COSTEIRA"
+  },
+  {
+    "CodigoCadSus": "712",
+    "Nome": "ESTRADA DE SERVIDAO"
+  },
+  {
+    "CodigoCadSus": "713",
+    "Nome": "COMUNIDADE"
+  },
+  {
+    "CodigoCadSus": "714",
+    "Nome": "EIXO INDUSTRIAL"
+  },
+  {
+    "CodigoCadSus": "715",
+    "Nome": "MERCADO"
+  },
+  {
+    "CodigoCadSus": "716",
+    "Nome": "EVANGELICA"
+  },
+  {
+    "CodigoCadSus": "717",
+    "Nome": "CAMPUS"
+  },
+  {
+    "CodigoCadSus": "718",
+    "Nome": "PROJECAO"
+  },
+  {
+    "CodigoCadSus": "719",
+    "Nome": "NUCLEO RURAL"
+  },
+  {
+    "CodigoCadSus": "720",
+    "Nome": "MARGEM"
+  },
+  {
+    "CodigoCadSus": "721",
+    "Nome": "AREA VERDE"
+  },
+  {
+    "CodigoCadSus": "722",
+    "Nome": "CONDOMINIO RESIDENCIAL"
+  },
+  {
+    "CodigoCadSus": "723",
+    "Nome": "CALCADAO"
+  },
+  {
+    "CodigoCadSus": "724",
+    "Nome": "RUELA"
+  },
+  {
+    "CodigoCadSus": "725",
+    "Nome": "AVENIDA PERIMETRAL"
+  },
+  {
+    "CodigoCadSus": "726",
+    "Nome": "VIA PRINCIPAL"
+  },
+  {
+    "CodigoCadSus": "727",
+    "Nome": "VIA PEDESTRE"
+  },
+  {
+    "CodigoCadSus": "728",
+    "Nome": "VIA LATERAL"
+  },
+  {
+    "CodigoCadSus": "729",
+    "Nome": "CAMINHO DE SERVIDAO"
+  },
+  {
+    "CodigoCadSus": "730",
+    "Nome": "AVENIDA MARGINAL NORTE"
+  },
+  {
+    "CodigoCadSus": "731",
+    "Nome": "ESTRADA DE FERRO"
+  },
+  {
+    "CodigoCadSus": "732",
+    "Nome": "EIXO PRINCIPAL"
+  },
+  {
+    "CodigoCadSus": "733",
+    "Nome": "EIXO"
+  },
+  {
+    "CodigoCadSus": "734",
+    "Nome": "OUTEIRO"
+  },
+  {
+    "CodigoCadSus": "735",
+    "Nome": "ESTRADA NOVA"
+  },
+  {
+    "CodigoCadSus": "736",
+    "Nome": "CONJUNTO HABITACIONAL"
+  },
+  {
+    "CodigoCadSus": "737",
+    "Nome": "JARDIM RESIDENCIAL"
+  },
+  {
+    "CodigoCadSus": "738",
+    "Nome": "ANEL VIARIO"
+  },
+  {
+    "CodigoCadSus": "739",
+    "Nome": "SERVIDAO DE PASSAGEM"
+  },
+  {
+    "CodigoCadSus": "740",
+    "Nome": "17A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "741",
+    "Nome": "ANTIGA ESTACAO"
+  },
+  {
+    "CodigoCadSus": "742",
+    "Nome": "20A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "743",
+    "Nome": "21A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "744",
+    "Nome": "22A TRAVESSA"
+  },
+  {
+    "CodigoCadSus": "745",
+    "Nome": "CONJUNTO RESIDENCIAL"
+  },
+  {
+    "CodigoCadSus": "746",
+    "Nome": "2A ALAMEDA"
+  },
+  {
+    "CodigoCadSus": "747",
+    "Nome": "VARIANTE DA ESTRADA"
+  },
+  {
+    "CodigoCadSus": "748",
+    "Nome": "VIA MARGINAL"
+  },
+  {
+    "CodigoCadSus": "749",
+    "Nome": "MODULO COMERCIAL"
+  },
+  {
+    "CodigoCadSus": "750",
+    "Nome": "NOVA AVENIDA"
+  },
+  {
+    "CodigoCadSus": "751",
+    "Nome": "GLEBA"
+  },
+  {
+    "CodigoCadSus": "998",
+    "Nome": "ALDEIA"
+  },
+  {
+    "CodigoCadSus": "999",
+    "Nome": "INVÁLIDO"
+  }
+]

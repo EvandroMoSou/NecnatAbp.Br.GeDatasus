@@ -1,0 +1,2022 @@
+[
+  {
+    "CodigoLediAps": 1,
+    "CodigoCadSus": "0001",
+    "Nome": "ACONA (WAKONAS, NACONAS, JAKONA, ACORANES)"
+  },
+  {
+    "CodigoLediAps": 2,
+    "CodigoCadSus": "0002",
+    "Nome": "AIKANA (AIKANA, MAS SAKA,TUBARAO)"
+  },
+  {
+    "CodigoLediAps": 3,
+    "CodigoCadSus": "0003",
+    "Nome": "AJURU"
+  },
+  {
+    "CodigoLediAps": 4,
+    "CodigoCadSus": "0004",
+    "Nome": "AKUNSU (AKUNT''SU)"
+  },
+  {
+    "CodigoLediAps": 5,
+    "CodigoCadSus": "0005",
+    "Nome": "AMANAYE"
+  },
+  {
+    "CodigoLediAps": 6,
+    "CodigoCadSus": "0006",
+    "Nome": "AMONDAWA"
+  },
+  {
+    "CodigoLediAps": 7,
+    "CodigoCadSus": "0007",
+    "Nome": "ANAMBE"
+  },
+  {
+    "CodigoLediAps": 8,
+    "CodigoCadSus": "0008",
+    "Nome": "APARAI (APALAI)"
+  },
+  {
+    "CodigoLediAps": 9,
+    "CodigoCadSus": "0009",
+    "Nome": "APIAKA (APIACA)"
+  },
+  {
+    "CodigoLediAps": 10,
+    "CodigoCadSus": "0010",
+    "Nome": "APINAYE (APINAJE/APINAIE/APINAGE)"
+  },
+  {
+    "CodigoLediAps": 11,
+    "CodigoCadSus": "0011",
+    "Nome": "APURINA (APORINA, IPURINA, IPURINA, IPURINAN)"
+  },
+  {
+    "CodigoLediAps": 12,
+    "CodigoCadSus": "0012",
+    "Nome": "ARANA (ARACUAI DO VALE DO JEQUITINHONHA)"
+  },
+  {
+    "CodigoLediAps": 13,
+    "CodigoCadSus": "0013",
+    "Nome": "ARAPASO (ARAPACO)"
+  },
+  {
+    "CodigoLediAps": 14,
+    "CodigoCadSus": "0014",
+    "Nome": "ARARA DE RONDONIA (KARO, URUCU, URUKU)"
+  },
+  {
+    "CodigoLediAps": 15,
+    "CodigoCadSus": "0015",
+    "Nome": "ARARA DO ACRE (SHAWANAUA, AMAWAKA)"
+  },
+  {
+    "CodigoLediAps": 16,
+    "CodigoCadSus": "0016",
+    "Nome": "ARARA DO ARIPUANA (ARARA DO BEIRADAO/ARI-PUANA)"
+  },
+  {
+    "CodigoLediAps": 17,
+    "CodigoCadSus": "0017",
+    "Nome": "ARARA DO PARA (UKARAGMA, UKARAMMA)"
+  },
+  {
+    "CodigoLediAps": 18,
+    "CodigoCadSus": "0018",
+    "Nome": "ARAWETE (ARAUETE)"
+  },
+  {
+    "CodigoLediAps": 19,
+    "CodigoCadSus": "0019",
+    "Nome": "ARIKAPU (ARICAPU, ARIKAPO, MASUBI, MAXUBI)"
+  },
+  {
+    "CodigoLediAps": 20,
+    "CodigoCadSus": "0020",
+    "Nome": "ARIKEM (ARIQUEN, ARIQUEME, ARIKEME)"
+  },
+  {
+    "CodigoLediAps": 21,
+    "CodigoCadSus": "0021",
+    "Nome": "ARIKOSE (ARICOBE)"
+  },
+  {
+    "CodigoLediAps": 22,
+    "CodigoCadSus": "0022",
+    "Nome": "ARUA"
+  },
+  {
+    "CodigoLediAps": 23,
+    "CodigoCadSus": "0023",
+    "Nome": "ARUAK (ARAWAK)"
+  },
+  {
+    "CodigoLediAps": 24,
+    "CodigoCadSus": "0024",
+    "Nome": "ASHANINKA (KAMPA)"
+  },
+  {
+    "CodigoLediAps": 25,
+    "CodigoCadSus": "0025",
+    "Nome": "ASURINI DO TOCANTINS (AKUAWA/AKWAWA)"
+  },
+  {
+    "CodigoLediAps": 26,
+    "CodigoCadSus": "0026",
+    "Nome": "ASURINI DO XINGU (AWAETE)"
+  },
+  {
+    "CodigoLediAps": 27,
+    "CodigoCadSus": "0027",
+    "Nome": "ATIKUM (ATICUM)"
+  },
+  {
+    "CodigoLediAps": 28,
+    "CodigoCadSus": "0028",
+    "Nome": "AVA - CANOEIRO"
+  },
+  {
+    "CodigoLediAps": 29,
+    "CodigoCadSus": "0029",
+    "Nome": "AWETI (AUETI/AUETO)"
+  },
+  {
+    "CodigoLediAps": 30,
+    "CodigoCadSus": "0030",
+    "Nome": "BAKAIRI (KURA, BACAIRI)"
+  },
+  {
+    "CodigoLediAps": 31,
+    "CodigoCadSus": "0031",
+    "Nome": "BANAWA YAFI (BANAWA, BANAWA-JAFI)"
+  },
+  {
+    "CodigoLediAps": 32,
+    "CodigoCadSus": "0032",
+    "Nome": "BANIWA (BANIUA, BANIVA, WALIMANAI, WAKUENAI)"
+  },
+  {
+    "CodigoLediAps": 33,
+    "CodigoCadSus": "0033",
+    "Nome": "BARA (WAIPINOMAKA)"
+  },
+  {
+    "CodigoLediAps": 34,
+    "CodigoCadSus": "0034",
+    "Nome": "BARASANA (HANERA)"
+  },
+  {
+    "CodigoLediAps": 35,
+    "CodigoCadSus": "0035",
+    "Nome": "BARE"
+  },
+  {
+    "CodigoLediAps": 36,
+    "CodigoCadSus": "0036",
+    "Nome": "BORORO (BOE)"
+  },
+  {
+    "CodigoLediAps": 37,
+    "CodigoCadSus": "0037",
+    "Nome": "BOTOCUDO (GEREN)"
+  },
+  {
+    "CodigoLediAps": 38,
+    "CodigoCadSus": "0038",
+    "Nome": "CANOE"
+  },
+  {
+    "CodigoLediAps": 39,
+    "CodigoCadSus": "0039",
+    "Nome": "CASSUPA"
+  },
+  {
+    "CodigoLediAps": 40,
+    "CodigoCadSus": "0040",
+    "Nome": "CHAMACOCO"
+  },
+  {
+    "CodigoLediAps": 41,
+    "CodigoCadSus": "0041",
+    "Nome": "CHIQUITANO (XIQUITANO)"
+  },
+  {
+    "CodigoLediAps": 42,
+    "CodigoCadSus": "0042",
+    "Nome": "CIKIYANA (SIKIANA)"
+  },
+  {
+    "CodigoLediAps": 43,
+    "CodigoCadSus": "0043",
+    "Nome": "CINTA LARGA (MATETAMAE)"
+  },
+  {
+    "CodigoLediAps": 44,
+    "CodigoCadSus": "0044",
+    "Nome": "COLUMBIARA (CORUMBIARA)"
+  },
+  {
+    "CodigoLediAps": 45,
+    "CodigoCadSus": "0045",
+    "Nome": "DENI"
+  },
+  {
+    "CodigoLediAps": 46,
+    "CodigoCadSus": "0046",
+    "Nome": "DESANA (DESANA, DESANO, DESSANO, WIRA, UMUKOMASA)"
+  },
+  {
+    "CodigoLediAps": 47,
+    "CodigoCadSus": "0047",
+    "Nome": "DIAHUI (JAHOI, JAHUI, DIARROI)"
+  },
+  {
+    "CodigoLediAps": 48,
+    "CodigoCadSus": "0048",
+    "Nome": "ENAWENE-NAWE (SALUMA)"
+  },
+  {
+    "CodigoLediAps": 49,
+    "CodigoCadSus": "0049",
+    "Nome": "FULNI-O"
+  },
+  {
+    "CodigoLediAps": 50,
+    "CodigoCadSus": "0050",
+    "Nome": "GALIBI (GALIBI DO OIAPOQUE, KARINHA)"
+  },
+  {
+    "CodigoLediAps": 51,
+    "CodigoCadSus": "0051",
+    "Nome": "GALIBI MARWORNO (GALIBI DO UACA, ARUA)"
+  },
+  {
+    "CodigoLediAps": 52,
+    "CodigoCadSus": "0052",
+    "Nome": "GAVIAO DE RONDONIA (DIGUT)"
+  },
+  {
+    "CodigoLediAps": 53,
+    "CodigoCadSus": "0053",
+    "Nome": "GAVIAO KRIKATEJE"
+  },
+  {
+    "CodigoLediAps": 54,
+    "CodigoCadSus": "0054",
+    "Nome": "GAVIAO PARKATEJE (PARKATEJE)"
+  },
+  {
+    "CodigoLediAps": 55,
+    "CodigoCadSus": "0055",
+    "Nome": "GAVIAO PUKOBIE (PUKOBIE, PYKOPJE, GAVIAO DO MARANHAO)"
+  },
+  {
+    "CodigoLediAps": 56,
+    "CodigoCadSus": "0056",
+    "Nome": "GUAJA (AWA, AVA)"
+  },
+  {
+    "CodigoLediAps": 57,
+    "CodigoCadSus": "0057",
+    "Nome": "GUAJAJARA (TENETEHARA)"
+  },
+  {
+    "CodigoLediAps": 58,
+    "CodigoCadSus": "0058",
+    "Nome": "GUARANI KAIOWA (PAI TAVYTERA)"
+  },
+  {
+    "CodigoLediAps": 59,
+    "CodigoCadSus": "0059",
+    "Nome": "GUARANI M''BYA"
+  },
+  {
+    "CodigoLediAps": 60,
+    "CodigoCadSus": "0060",
+    "Nome": "GUARANI NANDEVA (AVAKATUETE, CHIRIPA,NHANDEWA, AVA GUARANI)"
+  },
+  {
+    "CodigoLediAps": 61,
+    "CodigoCadSus": "0061",
+    "Nome": "GUATO"
+  },
+  {
+    "CodigoLediAps": 62,
+    "CodigoCadSus": "0062",
+    "Nome": "HIMARIMA (HIMERIMA)"
+  },
+  {
+    "CodigoLediAps": 63,
+    "CodigoCadSus": "0063",
+    "Nome": "INGARIKO (INGARICO, AKAWAIO, KAPON)"
+  },
+  {
+    "CodigoLediAps": 64,
+    "CodigoCadSus": "0064",
+    "Nome": "IRANXE (IRANTXE)"
+  },
+  {
+    "CodigoLediAps": 65,
+    "CodigoCadSus": "0065",
+    "Nome": "ISSE"
+  },
+  {
+    "CodigoLediAps": 66,
+    "CodigoCadSus": "0066",
+    "Nome": "JABOTI (JABUTI, KIPIU, YABYTI)"
+  },
+  {
+    "CodigoLediAps": 67,
+    "CodigoCadSus": "0067",
+    "Nome": "JAMAMADI (YAMAMADI, DJEOROMITXI)"
+  },
+  {
+    "CodigoLediAps": 68,
+    "CodigoCadSus": "0068",
+    "Nome": "JARAWARA"
+  },
+  {
+    "CodigoLediAps": 69,
+    "CodigoCadSus": "0069",
+    "Nome": "JIRIPANCO (JERIPANCO, GERIPANCO)"
+  },
+  {
+    "CodigoLediAps": 70,
+    "CodigoCadSus": "0070",
+    "Nome": "JUMA (YUMA)"
+  },
+  {
+    "CodigoLediAps": 71,
+    "CodigoCadSus": "0071",
+    "Nome": "JURUNA"
+  },
+  {
+    "CodigoLediAps": 72,
+    "CodigoCadSus": "0072",
+    "Nome": "JURUTI (YURITI)"
+  },
+  {
+    "CodigoLediAps": 73,
+    "CodigoCadSus": "0073",
+    "Nome": "KAAPOR (URUBU-KAAPOR, KA''APOR, KAAPORTE)"
+  },
+  {
+    "CodigoLediAps": 74,
+    "CodigoCadSus": "0074",
+    "Nome": "KADIWEU (CADUVEO, CADIUEU)"
+  },
+  {
+    "CodigoLediAps": 75,
+    "CodigoCadSus": "0075",
+    "Nome": "KAIABI (CAIABI, KAYABI)"
+  },
+  {
+    "CodigoLediAps": 76,
+    "CodigoCadSus": "0076",
+    "Nome": "KAIMBE (CAIMBE)"
+  },
+  {
+    "CodigoLediAps": 77,
+    "CodigoCadSus": "0077",
+    "Nome": "KAINGANG (CAINGANGUE)"
+  },
+  {
+    "CodigoLediAps": 78,
+    "CodigoCadSus": "0078",
+    "Nome": "KAIXANA (CAIXANA)"
+  },
+  {
+    "CodigoLediAps": 79,
+    "CodigoCadSus": "0079",
+    "Nome": "KALABASSA (CALABASSA, CALABACAS)"
+  },
+  {
+    "CodigoLediAps": 80,
+    "CodigoCadSus": "0080",
+    "Nome": "KALANCO"
+  },
+  {
+    "CodigoLediAps": 81,
+    "CodigoCadSus": "0081",
+    "Nome": "KALAPALO (CALAPALO)"
+  },
+  {
+    "CodigoLediAps": 82,
+    "CodigoCadSus": "0082",
+    "Nome": "KAMAYURA (CAMAIURA, KAMAIURA)"
+  },
+  {
+    "CodigoLediAps": 83,
+    "CodigoCadSus": "0083",
+    "Nome": "KAMBA (CAMBA)"
+  },
+  {
+    "CodigoLediAps": 84,
+    "CodigoCadSus": "0084",
+    "Nome": "KAMBEBA (CAMBEBA, OMAGUA)"
+  },
+  {
+    "CodigoLediAps": 85,
+    "CodigoCadSus": "0085",
+    "Nome": "KAMBIWA (CAMBIUA)"
+  },
+  {
+    "CodigoLediAps": 86,
+    "CodigoCadSus": "0086",
+    "Nome": "KAMBIWA PIPIPA (PIPIPA)"
+  },
+  {
+    "CodigoLediAps": 87,
+    "CodigoCadSus": "0087",
+    "Nome": "KAMPE"
+  },
+  {
+    "CodigoLediAps": 88,
+    "CodigoCadSus": "0088",
+    "Nome": "KANAMANTI (KANAMATI, CANAMANTI)"
+  },
+  {
+    "CodigoLediAps": 89,
+    "CodigoCadSus": "0089",
+    "Nome": "KANAMARI (CANAMARI, KANAMARY, TUKUNA)"
+  },
+  {
+    "CodigoLediAps": 90,
+    "CodigoCadSus": "0090",
+    "Nome": "KANELA APANIEKRA (CANELA)"
+  },
+  {
+    "CodigoLediAps": 91,
+    "CodigoCadSus": "0091",
+    "Nome": "KANELA RANKOKAMEKRA (CANELA)"
+  },
+  {
+    "CodigoLediAps": 92,
+    "CodigoCadSus": "0092",
+    "Nome": "KANINDE"
+  },
+  {
+    "CodigoLediAps": 93,
+    "CodigoCadSus": "0093",
+    "Nome": "KANOE (CANOE)"
+  },
+  {
+    "CodigoLediAps": 94,
+    "CodigoCadSus": "0094",
+    "Nome": "KANTARURE (CANTARURE)"
+  },
+  {
+    "CodigoLediAps": 95,
+    "CodigoCadSus": "0095",
+    "Nome": "KAPINAWA (CAPINAUA)"
+  },
+  {
+    "CodigoLediAps": 96,
+    "CodigoCadSus": "0096",
+    "Nome": "KARAJA (CARAJA)"
+  },
+  {
+    "CodigoLediAps": 97,
+    "CodigoCadSus": "0097",
+    "Nome": "KARAJA/JAVAE (JAVAE)"
+  },
+  {
+    "CodigoLediAps": 98,
+    "CodigoCadSus": "0098",
+    "Nome": "KARAJA/XAMBIOA (KARAJA DO NORTE)"
+  },
+  {
+    "CodigoLediAps": 99,
+    "CodigoCadSus": "0099",
+    "Nome": "KARAPANA (CARAPANA, MUTEAMASA, UKOPINOPONA)"
+  },
+  {
+    "CodigoLediAps": 100,
+    "CodigoCadSus": "0100",
+    "Nome": "KARAPOTO (CARAPOTO)"
+  },
+  {
+    "CodigoLediAps": 101,
+    "CodigoCadSus": "0101",
+    "Nome": "KARIPUNA (CARIPUNA)"
+  },
+  {
+    "CodigoLediAps": 102,
+    "CodigoCadSus": "0102",
+    "Nome": "KARIPUNA DO AMAPA (CARIPUNA)"
+  },
+  {
+    "CodigoLediAps": 103,
+    "CodigoCadSus": "0103",
+    "Nome": "KARIRI (CARIRI)"
+  },
+  {
+    "CodigoLediAps": 104,
+    "CodigoCadSus": "0104",
+    "Nome": "KARIRI-XOCO (CARIRI-CHOCO)"
+  },
+  {
+    "CodigoLediAps": 105,
+    "CodigoCadSus": "0105",
+    "Nome": "KARITIANA (CARITIANA)"
+  },
+  {
+    "CodigoLediAps": 106,
+    "CodigoCadSus": "0106",
+    "Nome": "KATAWIXI (KATAUIXI,KATAWIN, KATAWISI, CATAUICHI)"
+  },
+  {
+    "CodigoLediAps": 107,
+    "CodigoCadSus": "0107",
+    "Nome": "KATUENA (CATUENA, KATWENA)"
+  },
+  {
+    "CodigoLediAps": 108,
+    "CodigoCadSus": "0108",
+    "Nome": "KATUKINA (PEDA DJAPA)"
+  },
+  {
+    "CodigoLediAps": 109,
+    "CodigoCadSus": "0109",
+    "Nome": "KATUKINA DO ACRE"
+  },
+  {
+    "CodigoLediAps": 110,
+    "CodigoCadSus": "0110",
+    "Nome": "KAXARARI (CAXARARI)"
+  },
+  {
+    "CodigoLediAps": 111,
+    "CodigoCadSus": "0111",
+    "Nome": "KAXINAWA (HUNI-KUIN, CASHINAUA, CAXINAUA)"
+  },
+  {
+    "CodigoLediAps": 112,
+    "CodigoCadSus": "0112",
+    "Nome": "KAXIXO"
+  },
+  {
+    "CodigoLediAps": 113,
+    "CodigoCadSus": "0113",
+    "Nome": "KAXUYANA (CAXUIANA)"
+  },
+  {
+    "CodigoLediAps": 114,
+    "CodigoCadSus": "0114",
+    "Nome": "KAYAPO (CAIAPO)"
+  },
+  {
+    "CodigoLediAps": 115,
+    "CodigoCadSus": "0115",
+    "Nome": "KAYAPO KARARAO (KARARAO)"
+  },
+  {
+    "CodigoLediAps": 116,
+    "CodigoCadSus": "0116",
+    "Nome": "KAYAPO TXUKAHAMAE (TXUKAHAMAE)"
+  },
+  {
+    "CodigoLediAps": 117,
+    "CodigoCadSus": "0117",
+    "Nome": "KAYAPO XICRIM (XIKRIN)"
+  },
+  {
+    "CodigoLediAps": 118,
+    "CodigoCadSus": "0118",
+    "Nome": "KAYUISANA (CAIXANA, CAUIXANA, KAIXANA)"
+  },
+  {
+    "CodigoLediAps": 119,
+    "CodigoCadSus": "0119",
+    "Nome": "KINIKINAWA (GUAN, KOINUKOEN, KINIKINAO)"
+  },
+  {
+    "CodigoLediAps": 120,
+    "CodigoCadSus": "0120",
+    "Nome": "KIRIRI"
+  },
+  {
+    "CodigoLediAps": 121,
+    "CodigoCadSus": "0121",
+    "Nome": "KOCAMA (COCAMA, KOKAMA)"
+  },
+  {
+    "CodigoLediAps": 122,
+    "CodigoCadSus": "0122",
+    "Nome": "KOKUIREGATEJE"
+  },
+  {
+    "CodigoLediAps": 123,
+    "CodigoCadSus": "0123",
+    "Nome": "KORUBO"
+  },
+  {
+    "CodigoLediAps": 124,
+    "CodigoCadSus": "0124",
+    "Nome": "KRAHO (CRAO, KRAO)"
+  },
+  {
+    "CodigoLediAps": 125,
+    "CodigoCadSus": "0125",
+    "Nome": "KREJE (KRENYE)"
+  },
+  {
+    "CodigoLediAps": 126,
+    "CodigoCadSus": "0126",
+    "Nome": "KRENAK (BORUN, CRENAQUE)"
+  },
+  {
+    "CodigoLediAps": 127,
+    "CodigoCadSus": "0127",
+    "Nome": "KRIKATI (KRINKATI)"
+  },
+  {
+    "CodigoLediAps": 128,
+    "CodigoCadSus": "0128",
+    "Nome": "KUBEO (CUBEO, COBEWA, KUBEWA, PAMIWA, CUBEU)"
+  },
+  {
+    "CodigoLediAps": 129,
+    "CodigoCadSus": "0129",
+    "Nome": "KUIKURO (KUIKURU, CUICURO)"
+  },
+  {
+    "CodigoLediAps": 130,
+    "CodigoCadSus": "0130",
+    "Nome": "KUJUBIM (KUYUBI, CUJUBIM)"
+  },
+  {
+    "CodigoLediAps": 131,
+    "CodigoCadSus": "0131",
+    "Nome": "KULINA PANO (CULINA)"
+  },
+  {
+    "CodigoLediAps": 132,
+    "CodigoCadSus": "0132",
+    "Nome": "KULINA/MADIHA (CULINA, MADIJA, MADIHA)"
+  },
+  {
+    "CodigoLediAps": 133,
+    "CodigoCadSus": "0133",
+    "Nome": "KURIPAKO (CURIPACO, CURRIPACO, CORIPACO, WAKUENAI)"
+  },
+  {
+    "CodigoLediAps": 134,
+    "CodigoCadSus": "0134",
+    "Nome": "KURUAIA (CURUAIA)"
+  },
+  {
+    "CodigoLediAps": 135,
+    "CodigoCadSus": "0135",
+    "Nome": "KWAZA (COAIA, KOAIA)"
+  },
+  {
+    "CodigoLediAps": 136,
+    "CodigoCadSus": "0136",
+    "Nome": "MACHINERI (MANCHINERI, MANXINERI)"
+  },
+  {
+    "CodigoLediAps": 137,
+    "CodigoCadSus": "0137",
+    "Nome": "MACURAP (MAKURAP)"
+  },
+  {
+    "CodigoLediAps": 138,
+    "CodigoCadSus": "0138",
+    "Nome": "MAKU DOW (DOW)"
+  },
+  {
+    "CodigoLediAps": 139,
+    "CodigoCadSus": "0139",
+    "Nome": "MAKU HUPDA (HUPDA)"
+  },
+  {
+    "CodigoLediAps": 140,
+    "CodigoCadSus": "0140",
+    "Nome": "MAKU NADEB (NADEB)"
+  },
+  {
+    "CodigoLediAps": 141,
+    "CodigoCadSus": "0141",
+    "Nome": "MAKU YUHUPDE (YUHUPDE)"
+  },
+  {
+    "CodigoLediAps": 142,
+    "CodigoCadSus": "0142",
+    "Nome": "MAKUNA (MACUNA, YEBA-MASA)"
+  },
+  {
+    "CodigoLediAps": 143,
+    "CodigoCadSus": "0143",
+    "Nome": "MAKUXI (MACUXI, MACHUSI, PEMON)"
+  },
+  {
+    "CodigoLediAps": 144,
+    "CodigoCadSus": "0144",
+    "Nome": "MARIMAM (MARIMA)"
+  },
+  {
+    "CodigoLediAps": 145,
+    "CodigoCadSus": "0145",
+    "Nome": "MARUBO"
+  },
+  {
+    "CodigoLediAps": 146,
+    "CodigoCadSus": "0146",
+    "Nome": "MATIPU"
+  },
+  {
+    "CodigoLediAps": 147,
+    "CodigoCadSus": "0147",
+    "Nome": "MATIS"
+  },
+  {
+    "CodigoLediAps": 148,
+    "CodigoCadSus": "0148",
+    "Nome": "MATSE (MAYORUNA)"
+  },
+  {
+    "CodigoLediAps": 149,
+    "CodigoCadSus": "0149",
+    "Nome": "MAXAKALI (MAXACALI)"
+  },
+  {
+    "CodigoLediAps": 150,
+    "CodigoCadSus": "0150",
+    "Nome": "MAYA (MAYA)"
+  },
+  {
+    "CodigoLediAps": 151,
+    "CodigoCadSus": "0151",
+    "Nome": "MAYTAPU"
+  },
+  {
+    "CodigoLediAps": 152,
+    "CodigoCadSus": "0152",
+    "Nome": "MEHINAKO (MEINAKU, MEINACU)"
+  },
+  {
+    "CodigoLediAps": 153,
+    "CodigoCadSus": "0153",
+    "Nome": "MEKEN (MEQUEM, MEKHEM, MICHENS)"
+  },
+  {
+    "CodigoLediAps": 154,
+    "CodigoCadSus": "0154",
+    "Nome": "MENKY (MYKY, MUNKU, MENKI, MYNKY)"
+  },
+  {
+    "CodigoLediAps": 155,
+    "CodigoCadSus": "0155",
+    "Nome": "MIRANHA (MIRANHA, MIRANA)"
+  },
+  {
+    "CodigoLediAps": 156,
+    "CodigoCadSus": "0156",
+    "Nome": "MIRITI TAPUIA (MIRITI-TAPUYA, BUIA-TAPUYA)"
+  },
+  {
+    "CodigoLediAps": 157,
+    "CodigoCadSus": "0157",
+    "Nome": "MUNDURUKU (MUNDURUCU)"
+  },
+  {
+    "CodigoLediAps": 158,
+    "CodigoCadSus": "0158",
+    "Nome": "MURA"
+  },
+  {
+    "CodigoLediAps": 159,
+    "CodigoCadSus": "0159",
+    "Nome": "NAHUKWA (NAFUQUA)"
+  },
+  {
+    "CodigoLediAps": 160,
+    "CodigoCadSus": "0160",
+    "Nome": "NAMBIKWARA DO CAMPO (HALOTESU, KITHAULU, WAKALITESU, SAWENTES, MANDUKA)"
+  },
+  {
+    "CodigoLediAps": 161,
+    "CodigoCadSus": "0161",
+    "Nome": "NAMBIKWARA DO NORTE (NEGAROTE ,MAMAINDE, LATUNDE, SABANE E MANDUKA, TAWANDE)"
+  },
+  {
+    "CodigoLediAps": 162,
+    "CodigoCadSus": "0162",
+    "Nome": "NAMBIKWARA DO SUL (WASUSU ,HAHAINTESU, ALANTESU, WAIKISU, ALAKETESU, WASUSU, SARARE)"
+  },
+  {
+    "CodigoLediAps": 163,
+    "CodigoCadSus": "0163",
+    "Nome": "NARAVUTE (NARUVOTO)"
+  },
+  {
+    "CodigoLediAps": 164,
+    "CodigoCadSus": "0164",
+    "Nome": "NAWA (NAUA)"
+  },
+  {
+    "CodigoLediAps": 165,
+    "CodigoCadSus": "0165",
+    "Nome": "NUKINI (NUQUINI, NUKUINI)"
+  },
+  {
+    "CodigoLediAps": 166,
+    "CodigoCadSus": "0166",
+    "Nome": "OFAIE (OFAYE-XAVANTE)"
+  },
+  {
+    "CodigoLediAps": 167,
+    "CodigoCadSus": "0167",
+    "Nome": "ORO WIN"
+  },
+  {
+    "CodigoLediAps": 168,
+    "CodigoCadSus": "0168",
+    "Nome": "PAIAKU (JENIPAPO-KANINDE)"
+  },
+  {
+    "CodigoLediAps": 169,
+    "CodigoCadSus": "0169",
+    "Nome": "PAKAA NOVA (WARI, PACAAS NOVOS)"
+  },
+  {
+    "CodigoLediAps": 170,
+    "CodigoCadSus": "0170",
+    "Nome": "PALIKUR (AUKWAYENE, AUKUYENE, PALIKU''ENE)"
+  },
+  {
+    "CodigoLediAps": 171,
+    "CodigoCadSus": "0171",
+    "Nome": "PANARA (KRENHAKARORE , KRENAKORE, KRENA-KARORE)"
+  },
+  {
+    "CodigoLediAps": 172,
+    "CodigoCadSus": "0172",
+    "Nome": "PANKARARE (PANCARARE)"
+  },
+  {
+    "CodigoLediAps": 173,
+    "CodigoCadSus": "0173",
+    "Nome": "PANKARARU (PANCARARU)"
+  },
+  {
+    "CodigoLediAps": 174,
+    "CodigoCadSus": "0174",
+    "Nome": "PANKARARU KALANKO (KALANKO)"
+  },
+  {
+    "CodigoLediAps": 175,
+    "CodigoCadSus": "0175",
+    "Nome": "PANKARARU KARUAZU (KARUAZU)"
+  },
+  {
+    "CodigoLediAps": 176,
+    "CodigoCadSus": "0176",
+    "Nome": "PANKARU (PANCARU)"
+  },
+  {
+    "CodigoLediAps": 177,
+    "CodigoCadSus": "0177",
+    "Nome": "PARAKANA (PARACANA, APITEREWA, AWAETE)"
+  },
+  {
+    "CodigoLediAps": 178,
+    "CodigoCadSus": "0178",
+    "Nome": "PARECI (PARESI, HALITI)"
+  },
+  {
+    "CodigoLediAps": 179,
+    "CodigoCadSus": "0179",
+    "Nome": "PARINTINTIN"
+  },
+  {
+    "CodigoLediAps": 180,
+    "CodigoCadSus": "0180",
+    "Nome": "PATAMONA (KAPON)"
+  },
+  {
+    "CodigoLediAps": 181,
+    "CodigoCadSus": "0181",
+    "Nome": "PATAXO"
+  },
+  {
+    "CodigoLediAps": 182,
+    "CodigoCadSus": "0182",
+    "Nome": "PATAXO HA-HA-HAE"
+  },
+  {
+    "CodigoLediAps": 183,
+    "CodigoCadSus": "0183",
+    "Nome": "PAUMARI (PALMARI)"
+  },
+  {
+    "CodigoLediAps": 184,
+    "CodigoCadSus": "0184",
+    "Nome": "PAUMELENHO"
+  },
+  {
+    "CodigoLediAps": 185,
+    "CodigoCadSus": "0185",
+    "Nome": "PIRAHA (MURA PIRAHA)"
+  },
+  {
+    "CodigoLediAps": 186,
+    "CodigoCadSus": "0186",
+    "Nome": "PIRATUAPUIA (PIRATAPUYA, PIRATAPUYO, PIRA-TAPUYA, WAIKANA)"
+  },
+  {
+    "CodigoLediAps": 187,
+    "CodigoCadSus": "0187",
+    "Nome": "PITAGUARI"
+  },
+  {
+    "CodigoLediAps": 188,
+    "CodigoCadSus": "0188",
+    "Nome": "POTIGUARA"
+  },
+  {
+    "CodigoLediAps": 189,
+    "CodigoCadSus": "0189",
+    "Nome": "POYANAWA (POIANAUA)"
+  },
+  {
+    "CodigoLediAps": 190,
+    "CodigoCadSus": "0190",
+    "Nome": "RIKBAKTSA (CANOEIROS, ERIGPAKTSA)"
+  },
+  {
+    "CodigoLediAps": 191,
+    "CodigoCadSus": "0191",
+    "Nome": "SAKURABIAT(MEKENS, SAKIRABIAP, SAKIRABIAR)"
+  },
+  {
+    "CodigoLediAps": 192,
+    "CodigoCadSus": "0192",
+    "Nome": "SATERE-MAWE (SATERE-MAUE)"
+  },
+  {
+    "CodigoLediAps": 193,
+    "CodigoCadSus": "0193",
+    "Nome": "SHANENAWA (KATUKINA)"
+  },
+  {
+    "CodigoLediAps": 194,
+    "CodigoCadSus": "0194",
+    "Nome": "SIRIANO (SIRIA-MASA)"
+  },
+  {
+    "CodigoLediAps": 195,
+    "CodigoCadSus": "0195",
+    "Nome": "SURIANA"
+  },
+  {
+    "CodigoLediAps": 196,
+    "CodigoCadSus": "0196",
+    "Nome": "SURUI DE RONDONIA (PAITER)"
+  },
+  {
+    "CodigoLediAps": 197,
+    "CodigoCadSus": "0197",
+    "Nome": "SURUI DO PARA (AIKEWARA)"
+  },
+  {
+    "CodigoLediAps": 198,
+    "CodigoCadSus": "0198",
+    "Nome": "SUYA (SUIA/KISEDJE)"
+  },
+  {
+    "CodigoLediAps": 199,
+    "CodigoCadSus": "0199",
+    "Nome": "TAPAYUNA (BEICO-DE-PAU)"
+  },
+  {
+    "CodigoLediAps": 200,
+    "CodigoCadSus": "0200",
+    "Nome": "TAPEBA"
+  },
+  {
+    "CodigoLediAps": 201,
+    "CodigoCadSus": "0201",
+    "Nome": "TAPIRAPE (TAPI''IRAPE)"
+  },
+  {
+    "CodigoLediAps": 202,
+    "CodigoCadSus": "0202",
+    "Nome": "TAPUIA (TAPUIA-XAVANTE, TAPUIO)"
+  },
+  {
+    "CodigoLediAps": 203,
+    "CodigoCadSus": "0203",
+    "Nome": "TARIANO (TARIANA, TALIASERI)"
+  },
+  {
+    "CodigoLediAps": 204,
+    "CodigoCadSus": "0204",
+    "Nome": "TAUREPANG (TAULIPANG, PEMON, AREKUNA, PAGEYN)"
+  },
+  {
+    "CodigoLediAps": 205,
+    "CodigoCadSus": "0205",
+    "Nome": "TEMBE"
+  },
+  {
+    "CodigoLediAps": 206,
+    "CodigoCadSus": "0206",
+    "Nome": "TENHARIM"
+  },
+  {
+    "CodigoLediAps": 207,
+    "CodigoCadSus": "0207",
+    "Nome": "TERENA"
+  },
+  {
+    "CodigoLediAps": 208,
+    "CodigoCadSus": "0208",
+    "Nome": "TICUNA (TIKUNA, TUKUNA, MAGUTA)"
+  },
+  {
+    "CodigoLediAps": 209,
+    "CodigoCadSus": "0209",
+    "Nome": "TINGUI BOTO"
+  },
+  {
+    "CodigoLediAps": 210,
+    "CodigoCadSus": "0210",
+    "Nome": "TIRIYO EWARHUYANA (TIRIYO, TRIO, TARONA, YAWI, PIANOKOTO)"
+  },
+  {
+    "CodigoLediAps": 211,
+    "CodigoCadSus": "0211",
+    "Nome": "TIRIYO KAH''YANA (TIRIYO, TRIO, TARONA, YAWI, PIANOKOTO)"
+  },
+  {
+    "CodigoLediAps": 212,
+    "CodigoCadSus": "0212",
+    "Nome": "TIRIYO TSIKUYANA (TIRIYO, TRIO, TARONA, YAWI, PIANOKOTO)"
+  },
+  {
+    "CodigoLediAps": 213,
+    "CodigoCadSus": "0213",
+    "Nome": "TORA"
+  },
+  {
+    "CodigoLediAps": 214,
+    "CodigoCadSus": "0214",
+    "Nome": "TREMEMBE"
+  },
+  {
+    "CodigoLediAps": 215,
+    "CodigoCadSus": "0215",
+    "Nome": "TRUKA"
+  },
+  {
+    "CodigoLediAps": 216,
+    "CodigoCadSus": "0216",
+    "Nome": "TRUMAI"
+  },
+  {
+    "CodigoLediAps": 217,
+    "CodigoCadSus": "0217",
+    "Nome": "TSOHOM DJAPA (TSUNHUM-DJAPA)"
+  },
+  {
+    "CodigoLediAps": 218,
+    "CodigoCadSus": "0218",
+    "Nome": "TUKANO (TUCANO, YE''PA-MASA, DASEA)"
+  },
+  {
+    "CodigoLediAps": 219,
+    "CodigoCadSus": "0219",
+    "Nome": "TUMBALALA"
+  },
+  {
+    "CodigoLediAps": 220,
+    "CodigoCadSus": "0220",
+    "Nome": "TUNAYANA"
+  },
+  {
+    "CodigoLediAps": 221,
+    "CodigoCadSus": "0221",
+    "Nome": "TUPARI"
+  },
+  {
+    "CodigoLediAps": 222,
+    "CodigoCadSus": "0222",
+    "Nome": "TUPINAMBA"
+  },
+  {
+    "CodigoLediAps": 223,
+    "CodigoCadSus": "0223",
+    "Nome": "TUPINIQUIM"
+  },
+  {
+    "CodigoLediAps": 224,
+    "CodigoCadSus": "0224",
+    "Nome": "TURIWARA"
+  },
+  {
+    "CodigoLediAps": 225,
+    "CodigoCadSus": "0225",
+    "Nome": "TUXA"
+  },
+  {
+    "CodigoLediAps": 226,
+    "CodigoCadSus": "0226",
+    "Nome": "TUYUKA (TUIUCA, DOKAPUARA, UTAPINOMAKAPHONA)"
+  },
+  {
+    "CodigoLediAps": 227,
+    "CodigoCadSus": "0227",
+    "Nome": "TXIKAO (TXICAO, IKPENG)"
+  },
+  {
+    "CodigoLediAps": 228,
+    "CodigoCadSus": "0228",
+    "Nome": "UMUTINA (OMOTINA, BARBADOS)"
+  },
+  {
+    "CodigoLediAps": 229,
+    "CodigoCadSus": "0229",
+    "Nome": "URU-EU-WAU-WAU (URUEU-UAU-UAU, URUPAIN, URUPA)"
+  },
+  {
+    "CodigoLediAps": 230,
+    "CodigoCadSus": "0230",
+    "Nome": "WAI WAI HIXKARYANA (HIXKARYANA)"
+  },
+  {
+    "CodigoLediAps": 231,
+    "CodigoCadSus": "0231",
+    "Nome": "WAI WAI KARAFAWYANA (KARAFAWYANA, KARA-PAWYANA)"
+  },
+  {
+    "CodigoLediAps": 232,
+    "CodigoCadSus": "0232",
+    "Nome": "WAI WAI XEREU (XEREU)"
+  },
+  {
+    "CodigoLediAps": 233,
+    "CodigoCadSus": "0233",
+    "Nome": "WAI WAI KATUENA (KATUENA)"
+  },
+  {
+    "CodigoLediAps": 234,
+    "CodigoCadSus": "0234",
+    "Nome": "WAI WAI MAWAYANA (MAWAYANA)"
+  },
+  {
+    "CodigoLediAps": 235,
+    "CodigoCadSus": "0235",
+    "Nome": "WAIAPI (WAYAMPI, OYAMPI, WAYAPY, )"
+  },
+  {
+    "CodigoLediAps": 236,
+    "CodigoCadSus": "0236",
+    "Nome": "WAIMIRI ATROARI (KINA)"
+  },
+  {
+    "CodigoLediAps": 237,
+    "CodigoCadSus": "0237",
+    "Nome": "WANANO (UANANO, WANANA)"
+  },
+  {
+    "CodigoLediAps": 238,
+    "CodigoCadSus": "0238",
+    "Nome": "WAPIXANA (UAPIXANA, VAPIDIANA, WAPISIANA, WAPISHANA)"
+  },
+  {
+    "CodigoLediAps": 239,
+    "CodigoCadSus": "0239",
+    "Nome": "WAREKENA (UAREQUENA, WEREKENA)"
+  },
+  {
+    "CodigoLediAps": 240,
+    "CodigoCadSus": "0240",
+    "Nome": "WASSU"
+  },
+  {
+    "CodigoLediAps": 241,
+    "CodigoCadSus": "0241",
+    "Nome": "WAURA (UAURA, WAUJA)"
+  },
+  {
+    "CodigoLediAps": 242,
+    "CodigoCadSus": "0242",
+    "Nome": "WAYANA (WAIANA, UAIANA)"
+  },
+  {
+    "CodigoLediAps": 243,
+    "CodigoCadSus": "0243",
+    "Nome": "WITOTO (UITOTO, HUITOTO)"
+  },
+  {
+    "CodigoLediAps": 244,
+    "CodigoCadSus": "0244",
+    "Nome": "XAKRIABA (XACRIABA)"
+  },
+  {
+    "CodigoLediAps": 245,
+    "CodigoCadSus": "0245",
+    "Nome": "XAVANTE (A''UWE, AKWE, AWEN, AKWEN)"
+  },
+  {
+    "CodigoLediAps": 246,
+    "CodigoCadSus": "0246",
+    "Nome": "XERENTE (AKWE, AWEN, AKWEN)"
+  },
+  {
+    "CodigoLediAps": 247,
+    "CodigoCadSus": "0247",
+    "Nome": "XETA"
+  },
+  {
+    "CodigoLediAps": 248,
+    "CodigoCadSus": "0248",
+    "Nome": "XIPAIA (SHIPAYA, XIPAYA)"
+  },
+  {
+    "CodigoLediAps": 249,
+    "CodigoCadSus": "0249",
+    "Nome": "XOKLENG (SHOKLENG, XOCLENG)"
+  },
+  {
+    "CodigoLediAps": 250,
+    "CodigoCadSus": "0250",
+    "Nome": "XOKO (XOCO, CHOCO)"
+  },
+  {
+    "CodigoLediAps": 251,
+    "CodigoCadSus": "0251",
+    "Nome": "XUKURU (XUCURU)"
+  },
+  {
+    "CodigoLediAps": 252,
+    "CodigoCadSus": "0252",
+    "Nome": "XUKURU KARIRI (XUCURU-KARIRI)"
+  },
+  {
+    "CodigoLediAps": 253,
+    "CodigoCadSus": "0253",
+    "Nome": "YAIPIYANA"
+  },
+  {
+    "CodigoLediAps": 254,
+    "CodigoCadSus": "0254",
+    "Nome": "YAMINAWA (JAMINAWA, IAMINAWA)"
+  },
+  {
+    "CodigoLediAps": 255,
+    "CodigoCadSus": "0255",
+    "Nome": "YANOMAMI NINAM (IANOMAMI, IANOAMA, XIRIANA)"
+  },
+  {
+    "CodigoLediAps": 256,
+    "CodigoCadSus": "0256",
+    "Nome": "YANOMAMI SANUMA (IANOMAMI, IANOAMA, XIRIANA)"
+  },
+  {
+    "CodigoLediAps": 257,
+    "CodigoCadSus": "0257",
+    "Nome": "YANOMAMI YANOMAM (IANOMAMI, IANOAMA, XIRIANA)"
+  },
+  {
+    "CodigoLediAps": 258,
+    "CodigoCadSus": "0258",
+    "Nome": "YAWALAPITI (IAUALAPITI)"
+  },
+  {
+    "CodigoLediAps": 259,
+    "CodigoCadSus": "0259",
+    "Nome": "YAWANAWA (IAUANAUA)"
+  },
+  {
+    "CodigoLediAps": 260,
+    "CodigoCadSus": "0260",
+    "Nome": "YEKUANA (MAIONGON, YE''KUANA, YEKWANA, MAYONGONG)"
+  },
+  {
+    "CodigoLediAps": 261,
+    "CodigoCadSus": "0261",
+    "Nome": "YUDJA (JURUNA, YURUNA)"
+  },
+  {
+    "CodigoLediAps": 262,
+    "CodigoCadSus": "0262",
+    "Nome": "ZO''E (POTURU)"
+  },
+  {
+    "CodigoLediAps": 263,
+    "CodigoCadSus": "0263",
+    "Nome": "ZORO (PAGEYN)"
+  },
+  {
+    "CodigoLediAps": 264,
+    "CodigoCadSus": "0264",
+    "Nome": "ZURUAHA (SOROWAHA, SURUWAHA)"
+  },
+  {
+    "CodigoLediAps": 265,
+    "CodigoCadSus": "X265",
+    "Nome": "AHANENAWA"
+  },
+  {
+    "CodigoLediAps": 266,
+    "CodigoCadSus": "X266",
+    "Nome": "AICABA"
+  },
+  {
+    "CodigoLediAps": 267,
+    "CodigoCadSus": "X267",
+    "Nome": "AIKANÃ-KWASÁ"
+  },
+  {
+    "CodigoLediAps": 268,
+    "CodigoCadSus": "X268",
+    "Nome": "AKUNTSU"
+  },
+  {
+    "CodigoLediAps": 269,
+    "CodigoCadSus": "X269",
+    "Nome": "ALANTESU"
+  },
+  {
+    "CodigoLediAps": 271,
+    "CodigoCadSus": "X271",
+    "Nome": "AMAWÁKA"
+  },
+  {
+    "CodigoLediAps": 272,
+    "CodigoCadSus": "X272",
+    "Nome": "ANACÉ"
+  },
+  {
+    "CodigoLediAps": 273,
+    "CodigoCadSus": "X273",
+    "Nome": "APURINÃ"
+  },
+  {
+    "CodigoLediAps": 274,
+    "CodigoCadSus": "X274",
+    "Nome": "ARANÃ"
+  },
+  {
+    "CodigoLediAps": 275,
+    "CodigoCadSus": "X275",
+    "Nome": "ARAPAÇO"
+  },
+  {
+    "CodigoLediAps": 276,
+    "CodigoCadSus": "X276",
+    "Nome": "ARARA APOLIMA"
+  },
+  {
+    "CodigoLediAps": 277,
+    "CodigoCadSus": "X277",
+    "Nome": "ARARA DO ARIPUANA"
+  },
+  {
+    "CodigoLediAps": 278,
+    "CodigoCadSus": "X278",
+    "Nome": "ARIPUANÁ"
+  },
+  {
+    "CodigoLediAps": 279,
+    "CodigoCadSus": "X279",
+    "Nome": "ASSURINI"
+  },
+  {
+    "CodigoLediAps": 280,
+    "CodigoCadSus": "X280",
+    "Nome": "AWUARÁ"
+  },
+  {
+    "CodigoLediAps": 281,
+    "CodigoCadSus": "X281",
+    "Nome": "BORBA"
+  },
+  {
+    "CodigoLediAps": 282,
+    "CodigoCadSus": "X282",
+    "Nome": "CABIXI"
+  },
+  {
+    "CodigoLediAps": 283,
+    "CodigoCadSus": "X283",
+    "Nome": "CAMARARÉ"
+  },
+  {
+    "CodigoLediAps": 284,
+    "CodigoCadSus": "X284",
+    "Nome": "CAMASURI"
+  },
+  {
+    "CodigoLediAps": 285,
+    "CodigoCadSus": "X285",
+    "Nome": "CARA PRETA"
+  },
+  {
+    "CodigoLediAps": 286,
+    "CodigoCadSus": "X286",
+    "Nome": "CHARRUA"
+  },
+  {
+    "CodigoLediAps": 287,
+    "CodigoCadSus": "X287",
+    "Nome": "CUJUBIM"
+  },
+  {
+    "CodigoLediAps": 288,
+    "CodigoCadSus": "X288",
+    "Nome": "DAW"
+  },
+  {
+    "CodigoLediAps": 289,
+    "CodigoCadSus": "X289",
+    "Nome": "GAVIÃO"
+  },
+  {
+    "CodigoLediAps": 290,
+    "CodigoCadSus": "X290",
+    "Nome": "GUARANI"
+  },
+  {
+    "CodigoLediAps": 291,
+    "CodigoCadSus": "X291",
+    "Nome": "HALANTESU"
+  },
+  {
+    "CodigoLediAps": 292,
+    "CodigoCadSus": "X292",
+    "Nome": "HALOTESU"
+  },
+  {
+    "CodigoLediAps": 293,
+    "CodigoCadSus": "X293",
+    "Nome": "HENGATÚ"
+  },
+  {
+    "CodigoLediAps": 294,
+    "CodigoCadSus": "X294",
+    "Nome": "HIXKARYANA"
+  },
+  {
+    "CodigoLediAps": 295,
+    "CodigoCadSus": "X295",
+    "Nome": "HUPDE"
+  },
+  {
+    "CodigoLediAps": 296,
+    "CodigoCadSus": "X296",
+    "Nome": "HUPDES"
+  },
+  {
+    "CodigoLediAps": 297,
+    "CodigoCadSus": "X297",
+    "Nome": "IAUANAUA"
+  },
+  {
+    "CodigoLediAps": 298,
+    "CodigoCadSus": "X298",
+    "Nome": "IAUARETE AÇU"
+  },
+  {
+    "CodigoLediAps": 299,
+    "CodigoCadSus": "X299",
+    "Nome": "IKPENG"
+  },
+  {
+    "CodigoLediAps": 300,
+    "CodigoCadSus": "X300",
+    "Nome": "INAMBU"
+  },
+  {
+    "CodigoLediAps": 301,
+    "CodigoCadSus": "X301",
+    "Nome": "INHABARANA"
+  },
+  {
+    "CodigoLediAps": 302,
+    "CodigoCadSus": "X302",
+    "Nome": "JAVAE"
+  },
+  {
+    "CodigoLediAps": 303,
+    "CodigoCadSus": "X303",
+    "Nome": "JENIPAPO"
+  },
+  {
+    "CodigoLediAps": 304,
+    "CodigoCadSus": "X304",
+    "Nome": "JENIPAPO-KANINDE"
+  },
+  {
+    "CodigoLediAps": 305,
+    "CodigoCadSus": "X305",
+    "Nome": "JIAHOI"
+  },
+  {
+    "CodigoLediAps": 306,
+    "CodigoCadSus": "X306",
+    "Nome": "KAIOWA"
+  },
+  {
+    "CodigoLediAps": 307,
+    "CodigoCadSus": "X307",
+    "Nome": "KAMPA"
+  },
+  {
+    "CodigoLediAps": 308,
+    "CodigoCadSus": "X308",
+    "Nome": "KANELA"
+  },
+  {
+    "CodigoLediAps": 309,
+    "CodigoCadSus": "X309",
+    "Nome": "KARAFAWYANA"
+  },
+  {
+    "CodigoLediAps": 310,
+    "CodigoCadSus": "X310",
+    "Nome": "KARARAO"
+  },
+  {
+    "CodigoLediAps": 311,
+    "CodigoCadSus": "X311",
+    "Nome": "KARUBO"
+  },
+  {
+    "CodigoLediAps": 312,
+    "CodigoCadSus": "X312",
+    "Nome": "KASSUPÁ"
+  },
+  {
+    "CodigoLediAps": 313,
+    "CodigoCadSus": "X313",
+    "Nome": "KATITHÃULU"
+  },
+  {
+    "CodigoLediAps": 314,
+    "CodigoCadSus": "X314",
+    "Nome": "KATOKIN"
+  },
+  {
+    "CodigoLediAps": 315,
+    "CodigoCadSus": "X315",
+    "Nome": "KATUKINA PANO"
+  },
+  {
+    "CodigoLediAps": 316,
+    "CodigoCadSus": "X316",
+    "Nome": "KATUKINA PEDA DJAPA"
+  },
+  {
+    "CodigoLediAps": 317,
+    "CodigoCadSus": "X317",
+    "Nome": "KATUKINA SHANENAUWA"
+  },
+  {
+    "CodigoLediAps": 318,
+    "CodigoCadSus": "X318",
+    "Nome": "KAXAGO"
+  },
+  {
+    "CodigoLediAps": 319,
+    "CodigoCadSus": "X319",
+    "Nome": "KAYABI"
+  },
+  {
+    "CodigoLediAps": 320,
+    "CodigoCadSus": "X320",
+    "Nome": "KINÃ (WAIMIRI-ATROARI)"
+  },
+  {
+    "CodigoLediAps": 321,
+    "CodigoCadSus": "X321",
+    "Nome": "KIRIRI-BARRA"
+  },
+  {
+    "CodigoLediAps": 322,
+    "CodigoCadSus": "X322",
+    "Nome": "KITHÃULU"
+  },
+  {
+    "CodigoLediAps": 323,
+    "CodigoCadSus": "X323",
+    "Nome": "KOIAIÁ"
+  },
+  {
+    "CodigoLediAps": 324,
+    "CodigoCadSus": "X324",
+    "Nome": "KOIUPANKÁ"
+  },
+  {
+    "CodigoLediAps": 325,
+    "CodigoCadSus": "X325",
+    "Nome": "KONTANAWA"
+  },
+  {
+    "CodigoLediAps": 326,
+    "CodigoCadSus": "X326",
+    "Nome": "KRAHÔ KANELA"
+  },
+  {
+    "CodigoLediAps": 327,
+    "CodigoCadSus": "X327",
+    "Nome": "KULINA"
+  },
+  {
+    "CodigoLediAps": 328,
+    "CodigoCadSus": "X328",
+    "Nome": "LATUNDÊ"
+  },
+  {
+    "CodigoLediAps": 329,
+    "CodigoCadSus": "X329",
+    "Nome": "MAKU"
+  },
+  {
+    "CodigoLediAps": 330,
+    "CodigoCadSus": "X330",
+    "Nome": "MAKUNAMBÉ"
+  },
+  {
+    "CodigoLediAps": 331,
+    "CodigoCadSus": "X331",
+    "Nome": "MAMAINDÊ"
+  },
+  {
+    "CodigoLediAps": 332,
+    "CodigoCadSus": "X332",
+    "Nome": "MAMURI"
+  },
+  {
+    "CodigoLediAps": 333,
+    "CodigoCadSus": "X333",
+    "Nome": "MANACAPURU"
+  },
+  {
+    "CodigoLediAps": 334,
+    "CodigoCadSus": "X334",
+    "Nome": "MANAIRISSU"
+  },
+  {
+    "CodigoLediAps": 335,
+    "CodigoCadSus": "X335",
+    "Nome": "MANCHINERI"
+  },
+  {
+    "CodigoLediAps": 336,
+    "CodigoCadSus": "X336",
+    "Nome": "MANDUCA"
+  },
+  {
+    "CodigoLediAps": 337,
+    "CodigoCadSus": "X337",
+    "Nome": "MARIBONDO"
+  },
+  {
+    "CodigoLediAps": 338,
+    "CodigoCadSus": "X338",
+    "Nome": "MASSAKA"
+  },
+  {
+    "CodigoLediAps": 339,
+    "CodigoCadSus": "X339",
+    "Nome": "MAWAYANA"
+  },
+  {
+    "CodigoLediAps": 340,
+    "CodigoCadSus": "X340",
+    "Nome": "MAWÉ"
+  },
+  {
+    "CodigoLediAps": 341,
+    "CodigoCadSus": "X341",
+    "Nome": "MAYORUNA"
+  },
+  {
+    "CodigoLediAps": 342,
+    "CodigoCadSus": "X342",
+    "Nome": "MIQUELENO"
+  },
+  {
+    "CodigoLediAps": 343,
+    "CodigoCadSus": "X343",
+    "Nome": "MOKURIÑ"
+  },
+  {
+    "CodigoLediAps": 344,
+    "CodigoCadSus": "X344",
+    "Nome": "MON ORO WARAM"
+  },
+  {
+    "CodigoLediAps": 345,
+    "CodigoCadSus": "X345",
+    "Nome": "MUTUM"
+  },
+  {
+    "CodigoLediAps": 346,
+    "CodigoCadSus": "X346",
+    "Nome": "MYKY"
+  },
+  {
+    "CodigoLediAps": 347,
+    "CodigoCadSus": "X347",
+    "Nome": "NADEB"
+  },
+  {
+    "CodigoLediAps": 348,
+    "CodigoCadSus": "X348",
+    "Nome": "NAMBIKWARA"
+  },
+  {
+    "CodigoLediAps": 349,
+    "CodigoCadSus": "X349",
+    "Nome": "NEGAROTÊ"
+  },
+  {
+    "CodigoLediAps": 350,
+    "CodigoCadSus": "X350",
+    "Nome": "NHENGATU"
+  },
+  {
+    "CodigoLediAps": 351,
+    "CodigoCadSus": "X351",
+    "Nome": "OFAIE XAVANTE"
+  },
+  {
+    "CodigoLediAps": 352,
+    "CodigoCadSus": "X352",
+    "Nome": "ONÇA"
+  },
+  {
+    "CodigoLediAps": 353,
+    "CodigoCadSus": "X353",
+    "Nome": "ORO AT"
+  },
+  {
+    "CodigoLediAps": 354,
+    "CodigoCadSus": "X354",
+    "Nome": "ORO EO"
+  },
+  {
+    "CodigoLediAps": 355,
+    "CodigoCadSus": "X355",
+    "Nome": "ORO JOWIN"
+  },
+  {
+    "CodigoLediAps": 356,
+    "CodigoCadSus": "X356",
+    "Nome": "ORO MIYLIN"
+  },
+  {
+    "CodigoLediAps": 357,
+    "CodigoCadSus": "X357",
+    "Nome": "ORO MON"
+  },
+  {
+    "CodigoLediAps": 358,
+    "CodigoCadSus": "X358",
+    "Nome": "ORO NÁO"
+  },
+  {
+    "CodigoLediAps": 359,
+    "CodigoCadSus": "X359",
+    "Nome": "ORO WAM"
+  },
+  {
+    "CodigoLediAps": 360,
+    "CodigoCadSus": "X360",
+    "Nome": "ORO WARAM"
+  },
+  {
+    "CodigoLediAps": 361,
+    "CodigoCadSus": "X361",
+    "Nome": "ORO WARAM XIJEIN"
+  },
+  {
+    "CodigoLediAps": 362,
+    "CodigoCadSus": "X362",
+    "Nome": "PACA"
+  },
+  {
+    "CodigoLediAps": 363,
+    "CodigoCadSus": "X363",
+    "Nome": "PANKARÁ"
+  },
+  {
+    "CodigoLediAps": 364,
+    "CodigoCadSus": "X364",
+    "Nome": "PAPAGAIO"
+  },
+  {
+    "CodigoLediAps": 365,
+    "CodigoCadSus": "X365",
+    "Nome": "PAYAYÁ"
+  },
+  {
+    "CodigoLediAps": 366,
+    "CodigoCadSus": "X366",
+    "Nome": "PIPIPAN"
+  },
+  {
+    "CodigoLediAps": 367,
+    "CodigoCadSus": "X367",
+    "Nome": "PIRATA"
+  },
+  {
+    "CodigoLediAps": 368,
+    "CodigoCadSus": "X368",
+    "Nome": "PUROBORÁ"
+  },
+  {
+    "CodigoLediAps": 369,
+    "CodigoCadSus": "X369",
+    "Nome": "SABANÊ"
+  },
+  {
+    "CodigoLediAps": 370,
+    "CodigoCadSus": "X370",
+    "Nome": "SANUMA"
+  },
+  {
+    "CodigoLediAps": 371,
+    "CodigoCadSus": "X371",
+    "Nome": "SAWENTESÚ"
+  },
+  {
+    "CodigoLediAps": 372,
+    "CodigoCadSus": "X372",
+    "Nome": "SILCY-TAPUYA"
+  },
+  {
+    "CodigoLediAps": 373,
+    "CodigoCadSus": "X373",
+    "Nome": "SIUCI"
+  },
+  {
+    "CodigoLediAps": 374,
+    "CodigoCadSus": "X374",
+    "Nome": "TABAJARA"
+  },
+  {
+    "CodigoLediAps": 375,
+    "CodigoCadSus": "X375",
+    "Nome": "TAKUARA"
+  },
+  {
+    "CodigoLediAps": 376,
+    "CodigoCadSus": "X376",
+    "Nome": "TATU"
+  },
+  {
+    "CodigoLediAps": 377,
+    "CodigoCadSus": "X377",
+    "Nome": "TAWANDÊ"
+  },
+  {
+    "CodigoLediAps": 378,
+    "CodigoCadSus": "X378",
+    "Nome": "TEFÉ"
+  },
+  {
+    "CodigoLediAps": 379,
+    "CodigoCadSus": "X379",
+    "Nome": "TIMBIRA"
+  },
+  {
+    "CodigoLediAps": 380,
+    "CodigoCadSus": "X380",
+    "Nome": "TORÁ DO BAIXO GRANDE"
+  },
+  {
+    "CodigoLediAps": 381,
+    "CodigoCadSus": "X381",
+    "Nome": "TSUNHUM-DJAPÁ"
+  },
+  {
+    "CodigoLediAps": 382,
+    "CodigoCadSus": "X382",
+    "Nome": "TUBARÃO"
+  },
+  {
+    "CodigoLediAps": 383,
+    "CodigoCadSus": "X383",
+    "Nome": "TUPAIU"
+  },
+  {
+    "CodigoLediAps": 384,
+    "CodigoCadSus": "X384",
+    "Nome": "TUPI"
+  },
+  {
+    "CodigoLediAps": 385,
+    "CodigoCadSus": "X385",
+    "Nome": "TUPINAMBÁ DE BELMONTE"
+  },
+  {
+    "CodigoLediAps": 386,
+    "CodigoCadSus": "X386",
+    "Nome": "URUBU"
+  },
+  {
+    "CodigoLediAps": 387,
+    "CodigoCadSus": "X387",
+    "Nome": "URUBU KAAPOR"
+  },
+  {
+    "CodigoLediAps": 388,
+    "CodigoCadSus": "X388",
+    "Nome": "URUPÁ"
+  },
+  {
+    "CodigoLediAps": 389,
+    "CodigoCadSus": "X389",
+    "Nome": "WAI WAI"
+  },
+  {
+    "CodigoLediAps": 390,
+    "CodigoCadSus": "X390",
+    "Nome": "WAIKISU"
+  },
+  {
+    "CodigoLediAps": 391,
+    "CodigoCadSus": "X391",
+    "Nome": "WAKALITESÚ"
+  },
+  {
+    "CodigoLediAps": 392,
+    "CodigoCadSus": "X392",
+    "Nome": "WASSUSU"
+  },
+  {
+    "CodigoLediAps": 393,
+    "CodigoCadSus": "X393",
+    "Nome": "XEREU"
+  },
+  {
+    "CodigoLediAps": 394,
+    "CodigoCadSus": "X394",
+    "Nome": "XI EIN"
+  },
+  {
+    "CodigoLediAps": 395,
+    "CodigoCadSus": "X395",
+    "Nome": "XICRIN"
+  },
+  {
+    "CodigoLediAps": 396,
+    "CodigoCadSus": "X396",
+    "Nome": "XIPAYA"
+  },
+  {
+    "CodigoLediAps": 397,
+    "CodigoCadSus": "X397",
+    "Nome": "XIRIANA"
+  },
+  {
+    "CodigoLediAps": 398,
+    "CodigoCadSus": "X398",
+    "Nome": "XIRUAI"
+  },
+  {
+    "CodigoLediAps": 399,
+    "CodigoCadSus": "X399",
+    "Nome": "YEPAMASSÃ"
+  },
+  {
+    "CodigoLediAps": 400,
+    "CodigoCadSus": "X400",
+    "Nome": "TIRIYÓ"
+  },
+  {
+    "CodigoLediAps": 401,
+    "CodigoCadSus": "X401",
+    "Nome": "YANOMAMI"
+  },
+  {
+    "CodigoLediAps": 402,
+    "CodigoCadSus": "X402",
+    "Nome": "ARARA"
+  },
+  {
+    "CodigoLediAps": 403,
+    "CodigoCadSus": "X403",
+    "Nome": "SAKIRIABAR"
+  },
+  {
+    "CodigoLediAps": 404,
+    "CodigoCadSus": "X404",
+    "Nome": "TATZ"
+  },
+  {
+    "CodigoLediAps": 405,
+    "CodigoCadSus": "X405",
+    "Nome": "SEM INFORMACAO"
+  }
+]

@@ -1,0 +1,1767 @@
+[
+  {
+    "CodigoLediAps": 1,
+    "CodigoCadSus": "241",
+    "Nome": "AFEGANISTÃO"
+  },
+  {
+    "CodigoLediAps": 2,
+    "CodigoCadSus": "173",
+    "Nome": "ÁFRICA DO SUL"
+  },
+  {
+    "CodigoLediAps": 3,
+    "CodigoCadSus": "093",
+    "Nome": "ALBÂNIA"
+  },
+  {
+    "CodigoLediAps": 4,
+    "CodigoCadSus": "030",
+    "Nome": "ALEMANHA"
+  },
+  {
+    "CodigoLediAps": 5,
+    "CodigoCadSus": "094",
+    "Nome": "ANDORRA"
+  },
+  {
+    "CodigoLediAps": 6,
+    "CodigoCadSus": "175",
+    "Nome": "ANGOLA"
+  },
+  {
+    "CodigoLediAps": 7,
+    "CodigoCadSus": "",
+    "Nome": "ANGUILLA"
+  },
+  {
+    "CodigoLediAps": 8,
+    "CodigoCadSus": "",
+    "Nome": "ANTÁRCTICA"
+  },
+  {
+    "CodigoLediAps": 9,
+    "CodigoCadSus": "028",
+    "Nome": "ANTIGUA E BARBUDA"
+  },
+  {
+    "CodigoLediAps": 10,
+    "CodigoCadSus": "029",
+    "Nome": "ANTILHAS HOLANDESAS"
+  },
+  {
+    "CodigoLediAps": 11,
+    "CodigoCadSus": "242",
+    "Nome": "ARÁBIA SAUDITA"
+  },
+  {
+    "CodigoLediAps": 12,
+    "CodigoCadSus": "176",
+    "Nome": "ARGÉLIA"
+  },
+  {
+    "CodigoLediAps": 13,
+    "CodigoCadSus": "021",
+    "Nome": "ARGENTINA"
+  },
+  {
+    "CodigoLediAps": 14,
+    "CodigoCadSus": "",
+    "Nome": "ARMÊNIA"
+  },
+  {
+    "CodigoLediAps": 15,
+    "CodigoCadSus": "033",
+    "Nome": "ARUBA"
+  },
+  {
+    "CodigoLediAps": 16,
+    "CodigoCadSus": "",
+    "Nome": "AUSTRÁLIA"
+  },
+  {
+    "CodigoLediAps": 17,
+    "CodigoCadSus": "095",
+    "Nome": "ÁUSTRIA"
+  },
+  {
+    "CodigoLediAps": 18,
+    "CodigoCadSus": "138",
+    "Nome": "AZERBAIDJÃO"
+  },
+  {
+    "CodigoLediAps": 19,
+    "CodigoCadSus": "040",
+    "Nome": "BAHAMAS"
+  },
+  {
+    "CodigoLediAps": 20,
+    "CodigoCadSus": "",
+    "Nome": "BANGLADESH"
+  },
+  {
+    "CodigoLediAps": 21,
+    "CodigoCadSus": "044",
+    "Nome": "BARBADOS"
+  },
+  {
+    "CodigoLediAps": 22,
+    "CodigoCadSus": "243",
+    "Nome": "BAREIN"
+  },
+  {
+    "CodigoLediAps": 23,
+    "CodigoCadSus": "",
+    "Nome": "BELARUS"
+  },
+  {
+    "CodigoLediAps": 24,
+    "CodigoCadSus": "031",
+    "Nome": "BÉLGICA"
+  },
+  {
+    "CodigoLediAps": 25,
+    "CodigoCadSus": "046",
+    "Nome": "BELIZE"
+  },
+  {
+    "CodigoLediAps": 26,
+    "CodigoCadSus": "178",
+    "Nome": "BENIN"
+  },
+  {
+    "CodigoLediAps": 27,
+    "CodigoCadSus": "083",
+    "Nome": "BERMUDA"
+  },
+  {
+    "CodigoLediAps": 28,
+    "CodigoCadSus": "022",
+    "Nome": "BOLÍVIA"
+  },
+  {
+    "CodigoLediAps": 29,
+    "CodigoCadSus": "134",
+    "Nome": "BÓSNIA E HERZEGÓVINA"
+  },
+  {
+    "CodigoLediAps": 30,
+    "CodigoCadSus": "179",
+    "Nome": "BOTSWANA"
+  },
+  {
+    "CodigoLediAps": 31,
+    "CodigoCadSus": "010",
+    "Nome": "BRASIL"
+  },
+  {
+    "CodigoLediAps": 32,
+    "CodigoCadSus": "245",
+    "Nome": "BRUNEI"
+  },
+  {
+    "CodigoLediAps": 33,
+    "CodigoCadSus": "096",
+    "Nome": "BULGÁRIA"
+  },
+  {
+    "CodigoLediAps": 34,
+    "CodigoCadSus": "238",
+    "Nome": "BURKINA FASSO"
+  },
+  {
+    "CodigoLediAps": 35,
+    "CodigoCadSus": "180",
+    "Nome": "BURUNDI"
+  },
+  {
+    "CodigoLediAps": 36,
+    "CodigoCadSus": "246",
+    "Nome": "BUTÃO"
+  },
+  {
+    "CodigoLediAps": 37,
+    "CodigoCadSus": "",
+    "Nome": "CABO VERDE"
+  },
+  {
+    "CodigoLediAps": 38,
+    "CodigoCadSus": "181",
+    "Nome": "CAMARÕES"
+  },
+  {
+    "CodigoLediAps": 39,
+    "CodigoCadSus": "",
+    "Nome": "CAMBOJA"
+  },
+  {
+    "CodigoLediAps": 40,
+    "CodigoCadSus": "034",
+    "Nome": "CANADÁ"
+  },
+  {
+    "CodigoLediAps": 41,
+    "CodigoCadSus": "247",
+    "Nome": "CATAR"
+  },
+  {
+    "CodigoLediAps": 42,
+    "CodigoCadSus": "143",
+    "Nome": "CAZAQUISTÃO"
+  },
+  {
+    "CodigoLediAps": 43,
+    "CodigoCadSus": "183",
+    "Nome": "CHADE"
+  },
+  {
+    "CodigoLediAps": 44,
+    "CodigoCadSus": "023",
+    "Nome": "CHILE"
+  },
+  {
+    "CodigoLediAps": 45,
+    "CodigoCadSus": "042",
+    "Nome": "CHINA"
+  },
+  {
+    "CodigoLediAps": 46,
+    "CodigoCadSus": "097",
+    "Nome": "CHIPRE"
+  },
+  {
+    "CodigoLediAps": 47,
+    "CodigoCadSus": "",
+    "Nome": "CINGAPURA"
+  },
+  {
+    "CodigoLediAps": 48,
+    "CodigoCadSus": "026",
+    "Nome": "COLÔMBIA"
+  },
+  {
+    "CodigoLediAps": 49,
+    "CodigoCadSus": "184",
+    "Nome": "COMORES"
+  },
+  {
+    "CodigoLediAps": 50,
+    "CodigoCadSus": "185",
+    "Nome": "CONGO"
+  },
+  {
+    "CodigoLediAps": 51,
+    "CodigoCadSus": "",
+    "Nome": "CORÉIA DO NORTE"
+  },
+  {
+    "CodigoLediAps": 52,
+    "CodigoCadSus": "",
+    "Nome": "CORÉIA DO SUL"
+  },
+  {
+    "CodigoLediAps": 53,
+    "CodigoCadSus": "186",
+    "Nome": "COSTA DO MARFIM"
+  },
+  {
+    "CodigoLediAps": 54,
+    "CodigoCadSus": "051",
+    "Nome": "COSTA RICA"
+  },
+  {
+    "CodigoLediAps": 55,
+    "CodigoCadSus": "130",
+    "Nome": "CROÁCIA"
+  },
+  {
+    "CodigoLediAps": 56,
+    "CodigoCadSus": "052",
+    "Nome": "CUBA"
+  },
+  {
+    "CodigoLediAps": 57,
+    "CodigoCadSus": "098",
+    "Nome": "DINAMARCA"
+  },
+  {
+    "CodigoLediAps": 58,
+    "CodigoCadSus": "188",
+    "Nome": "DJIBUTI"
+  },
+  {
+    "CodigoLediAps": 59,
+    "CodigoCadSus": "",
+    "Nome": "DOMINICA"
+  },
+  {
+    "CodigoLediAps": 60,
+    "CodigoCadSus": "189",
+    "Nome": "EGITO"
+  },
+  {
+    "CodigoLediAps": 61,
+    "CodigoCadSus": "056",
+    "Nome": "EL SALVADOR"
+  },
+  {
+    "CodigoLediAps": 62,
+    "CodigoCadSus": "251",
+    "Nome": "EMIRADOS ÁRABES UNIDOS"
+  },
+  {
+    "CodigoLediAps": 63,
+    "CodigoCadSus": "027",
+    "Nome": "EQUADOR"
+  },
+  {
+    "CodigoLediAps": 64,
+    "CodigoCadSus": "",
+    "Nome": "ERITRÉIA"
+  },
+  {
+    "CodigoLediAps": 65,
+    "CodigoCadSus": "136",
+    "Nome": "ESLOVÁQUIA"
+  },
+  {
+    "CodigoLediAps": 66,
+    "CodigoCadSus": "132",
+    "Nome": "ESLOVÊNIA"
+  },
+  {
+    "CodigoLediAps": 67,
+    "CodigoCadSus": "035",
+    "Nome": "ESPANHA"
+  },
+  {
+    "CodigoLediAps": 68,
+    "CodigoCadSus": "036",
+    "Nome": "ESTADOS UNIDOS"
+  },
+  {
+    "CodigoLediAps": 69,
+    "CodigoCadSus": "147",
+    "Nome": "ESTÔNIA"
+  },
+  {
+    "CodigoLediAps": 70,
+    "CodigoCadSus": "190",
+    "Nome": "ETIÓPIA"
+  },
+  {
+    "CodigoLediAps": 71,
+    "CodigoCadSus": "",
+    "Nome": "FEDERAÇÃO RUSSA"
+  },
+  {
+    "CodigoLediAps": 72,
+    "CodigoCadSus": "",
+    "Nome": "FIJI"
+  },
+  {
+    "CodigoLediAps": 73,
+    "CodigoCadSus": "252",
+    "Nome": "FILIPINAS"
+  },
+  {
+    "CodigoLediAps": 74,
+    "CodigoCadSus": "102",
+    "Nome": "FINLÂNDIA"
+  },
+  {
+    "CodigoLediAps": 75,
+    "CodigoCadSus": "037",
+    "Nome": "FRANÇA"
+  },
+  {
+    "CodigoLediAps": 76,
+    "CodigoCadSus": "",
+    "Nome": "FRANÇA METROPOLITANA"
+  },
+  {
+    "CodigoLediAps": 77,
+    "CodigoCadSus": "191",
+    "Nome": "GABÃO"
+  },
+  {
+    "CodigoLediAps": 78,
+    "CodigoCadSus": "192",
+    "Nome": "GÂMBIA"
+  },
+  {
+    "CodigoLediAps": 79,
+    "CodigoCadSus": "193",
+    "Nome": "GANA"
+  },
+  {
+    "CodigoLediAps": 80,
+    "CodigoCadSus": "148",
+    "Nome": "GEÓRGIA"
+  },
+  {
+    "CodigoLediAps": 81,
+    "CodigoCadSus": "103",
+    "Nome": "GIBRALTAR"
+  },
+  {
+    "CodigoLediAps": 82,
+    "CodigoCadSus": "032",
+    "Nome": "GRÃ-BRETANHA"
+  },
+  {
+    "CodigoLediAps": 83,
+    "CodigoCadSus": "059",
+    "Nome": "GRANADA"
+  },
+  {
+    "CodigoLediAps": 84,
+    "CodigoCadSus": "104",
+    "Nome": "GRÉCIA"
+  },
+  {
+    "CodigoLediAps": 85,
+    "CodigoCadSus": "084",
+    "Nome": "GROENLÂNDIA"
+  },
+  {
+    "CodigoLediAps": 86,
+    "CodigoCadSus": "060",
+    "Nome": "GUADALUPE"
+  },
+  {
+    "CodigoLediAps": 87,
+    "CodigoCadSus": "",
+    "Nome": "GUAM"
+  },
+  {
+    "CodigoLediAps": 88,
+    "CodigoCadSus": "061",
+    "Nome": "GUATEMALA"
+  },
+  {
+    "CodigoLediAps": 89,
+    "CodigoCadSus": "088",
+    "Nome": "GUIANA"
+  },
+  {
+    "CodigoLediAps": 90,
+    "CodigoCadSus": "087",
+    "Nome": "GUIANA FRANCESA"
+  },
+  {
+    "CodigoLediAps": 91,
+    "CodigoCadSus": "195",
+    "Nome": "GUINÉ"
+  },
+  {
+    "CodigoLediAps": 92,
+    "CodigoCadSus": "196",
+    "Nome": "GUINÉ EQUATORIAL"
+  },
+  {
+    "CodigoLediAps": 93,
+    "CodigoCadSus": "",
+    "Nome": "GUINÉ-BISSAU"
+  },
+  {
+    "CodigoLediAps": 94,
+    "CodigoCadSus": "062",
+    "Nome": "HAITI"
+  },
+  {
+    "CodigoLediAps": 95,
+    "CodigoCadSus": "105",
+    "Nome": "HOLANDA"
+  },
+  {
+    "CodigoLediAps": 96,
+    "CodigoCadSus": "064",
+    "Nome": "HONDURAS"
+  },
+  {
+    "CodigoLediAps": 97,
+    "CodigoCadSus": "253",
+    "Nome": "HONG KONG"
+  },
+  {
+    "CodigoLediAps": 98,
+    "CodigoCadSus": "106",
+    "Nome": "HUNGRIA"
+  },
+  {
+    "CodigoLediAps": 99,
+    "CodigoCadSus": "254",
+    "Nome": "IÊMEN"
+  },
+  {
+    "CodigoLediAps": 100,
+    "CodigoCadSus": "",
+    "Nome": "ILHA BOUVET"
+  },
+  {
+    "CodigoLediAps": 101,
+    "CodigoCadSus": "",
+    "Nome": "ILHA CHRISTMAS"
+  },
+  {
+    "CodigoLediAps": 102,
+    "CodigoCadSus": "",
+    "Nome": "ILHA NORFOLK"
+  },
+  {
+    "CodigoLediAps": 103,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS CAYMAN"
+  },
+  {
+    "CodigoLediAps": 104,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS COCOS"
+  },
+  {
+    "CodigoLediAps": 105,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS COOK"
+  },
+  {
+    "CodigoLediAps": 106,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS DE GUERNSEY"
+  },
+  {
+    "CodigoLediAps": 107,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS DE JERSEY"
+  },
+  {
+    "CodigoLediAps": 108,
+    "CodigoCadSus": "101",
+    "Nome": "ILHAS FAROE"
+  },
+  {
+    "CodigoLediAps": 109,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS GEÓRGIA DO SUL E ILHAS SANDWICH DO SUL"
+  },
+  {
+    "CodigoLediAps": 110,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS HEARD E MAC DONALD"
+  },
+  {
+    "CodigoLediAps": 111,
+    "CodigoCadSus": "067",
+    "Nome": "ILHAS MALVINAS"
+  },
+  {
+    "CodigoLediAps": 112,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS MARIANA"
+  },
+  {
+    "CodigoLediAps": 113,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS MARSHALL"
+  },
+  {
+    "CodigoLediAps": 114,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS PITCAIRN"
+  },
+  {
+    "CodigoLediAps": 115,
+    "CodigoCadSus": "219",
+    "Nome": "ILHAS REUNIÃO"
+  },
+  {
+    "CodigoLediAps": 116,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS SALOMÃO"
+  },
+  {
+    "CodigoLediAps": 117,
+    "CodigoCadSus": "223",
+    "Nome": "ILHAS SANTA HELENA"
+  },
+  {
+    "CodigoLediAps": 118,
+    "CodigoCadSus": "127",
+    "Nome": "ILHAS SVALBARD E JAN MAYEN"
+  },
+  {
+    "CodigoLediAps": 119,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS TOKELAU"
+  },
+  {
+    "CodigoLediAps": 120,
+    "CodigoCadSus": "047",
+    "Nome": "ILHAS TURKS E CAICOS"
+  },
+  {
+    "CodigoLediAps": 121,
+    "CodigoCadSus": "082",
+    "Nome": "ILHAS VIRGENS AMERICANAS"
+  },
+  {
+    "CodigoLediAps": 122,
+    "CodigoCadSus": "081",
+    "Nome": "ILHAS VIRGENS BRITÂNICAS"
+  },
+  {
+    "CodigoLediAps": 123,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS WALLIS E FUTUNA"
+  },
+  {
+    "CodigoLediAps": 124,
+    "CodigoCadSus": "255",
+    "Nome": "ÍNDIA"
+  },
+  {
+    "CodigoLediAps": 125,
+    "CodigoCadSus": "",
+    "Nome": "INDONÉSIA"
+  },
+  {
+    "CodigoLediAps": 126,
+    "CodigoCadSus": "",
+    "Nome": "IRÃ"
+  },
+  {
+    "CodigoLediAps": 127,
+    "CodigoCadSus": "",
+    "Nome": "IRAQUE"
+  },
+  {
+    "CodigoLediAps": 128,
+    "CodigoCadSus": "112",
+    "Nome": "IRLANDA"
+  },
+  {
+    "CodigoLediAps": 129,
+    "CodigoCadSus": "113",
+    "Nome": "ISLÂNDIA"
+  },
+  {
+    "CodigoLediAps": 130,
+    "CodigoCadSus": "",
+    "Nome": "ISRAEL"
+  },
+  {
+    "CodigoLediAps": 131,
+    "CodigoCadSus": "039",
+    "Nome": "ITÁLIA"
+  },
+  {
+    "CodigoLediAps": 132,
+    "CodigoCadSus": "114",
+    "Nome": "IUGOSLÁVIA"
+  },
+  {
+    "CodigoLediAps": 133,
+    "CodigoCadSus": "066",
+    "Nome": "JAMAICA"
+  },
+  {
+    "CodigoLediAps": 134,
+    "CodigoCadSus": "041",
+    "Nome": "JAPÃO"
+  },
+  {
+    "CodigoLediAps": 135,
+    "CodigoCadSus": "",
+    "Nome": "JORDÂNIA"
+  },
+  {
+    "CodigoLediAps": 136,
+    "CodigoCadSus": "",
+    "Nome": "KIRIBATI"
+  },
+  {
+    "CodigoLediAps": 137,
+    "CodigoCadSus": "",
+    "Nome": "KUWEIT"
+  },
+  {
+    "CodigoLediAps": 138,
+    "CodigoCadSus": "",
+    "Nome": "LAOS"
+  },
+  {
+    "CodigoLediAps": 139,
+    "CodigoCadSus": "200",
+    "Nome": "LESOTO"
+  },
+  {
+    "CodigoLediAps": 140,
+    "CodigoCadSus": "155",
+    "Nome": "LETÔNIA"
+  },
+  {
+    "CodigoLediAps": 141,
+    "CodigoCadSus": "",
+    "Nome": "LÍBANO"
+  },
+  {
+    "CodigoLediAps": 142,
+    "CodigoCadSus": "201",
+    "Nome": "LIBÉRIA"
+  },
+  {
+    "CodigoLediAps": 143,
+    "CodigoCadSus": "202",
+    "Nome": "LÍBIA"
+  },
+  {
+    "CodigoLediAps": 144,
+    "CodigoCadSus": "115",
+    "Nome": "LIECHTENSTEIN"
+  },
+  {
+    "CodigoLediAps": 145,
+    "CodigoCadSus": "156",
+    "Nome": "LITUÂNIA"
+  },
+  {
+    "CodigoLediAps": 146,
+    "CodigoCadSus": "116",
+    "Nome": "LUXEMBURGO"
+  },
+  {
+    "CodigoLediAps": 147,
+    "CodigoCadSus": "",
+    "Nome": "MACAU"
+  },
+  {
+    "CodigoLediAps": 148,
+    "CodigoCadSus": "133",
+    "Nome": "MACEDÔNIA"
+  },
+  {
+    "CodigoLediAps": 149,
+    "CodigoCadSus": "205",
+    "Nome": "MADAGASCAR"
+  },
+  {
+    "CodigoLediAps": 150,
+    "CodigoCadSus": "",
+    "Nome": "MALÁSIA"
+  },
+  {
+    "CodigoLediAps": 151,
+    "CodigoCadSus": "",
+    "Nome": "MALAUÍ"
+  },
+  {
+    "CodigoLediAps": 152,
+    "CodigoCadSus": "",
+    "Nome": "MALDIVAS"
+  },
+  {
+    "CodigoLediAps": 153,
+    "CodigoCadSus": "206",
+    "Nome": "MALI"
+  },
+  {
+    "CodigoLediAps": 154,
+    "CodigoCadSus": "120",
+    "Nome": "MALTA"
+  },
+  {
+    "CodigoLediAps": 155,
+    "CodigoCadSus": "207",
+    "Nome": "MARROCOS"
+  },
+  {
+    "CodigoLediAps": 156,
+    "CodigoCadSus": "068",
+    "Nome": "MARTINICA"
+  },
+  {
+    "CodigoLediAps": 157,
+    "CodigoCadSus": "208",
+    "Nome": "MAURÍCIO"
+  },
+  {
+    "CodigoLediAps": 158,
+    "CodigoCadSus": "209",
+    "Nome": "MAURITÂNIA"
+  },
+  {
+    "CodigoLediAps": 159,
+    "CodigoCadSus": "",
+    "Nome": "MAYOTTE"
+  },
+  {
+    "CodigoLediAps": 160,
+    "CodigoCadSus": "085",
+    "Nome": "MÉXICO"
+  },
+  {
+    "CodigoLediAps": 161,
+    "CodigoCadSus": "",
+    "Nome": "MIANMAR"
+  },
+  {
+    "CodigoLediAps": 162,
+    "CodigoCadSus": "",
+    "Nome": "MICRONÉSIA"
+  },
+  {
+    "CodigoLediAps": 163,
+    "CodigoCadSus": "210",
+    "Nome": "MOÇAMBIQUE"
+  },
+  {
+    "CodigoLediAps": 164,
+    "CodigoCadSus": "158",
+    "Nome": "MOLDÁVIA"
+  },
+  {
+    "CodigoLediAps": 165,
+    "CodigoCadSus": "118",
+    "Nome": "MÔNACO"
+  },
+  {
+    "CodigoLediAps": 166,
+    "CodigoCadSus": "",
+    "Nome": "MONGÓLIA"
+  },
+  {
+    "CodigoLediAps": 167,
+    "CodigoCadSus": "070",
+    "Nome": "MONTSERRAT"
+  },
+  {
+    "CodigoLediAps": 168,
+    "CodigoCadSus": "240",
+    "Nome": "NAMÍBIA"
+  },
+  {
+    "CodigoLediAps": 169,
+    "CodigoCadSus": "",
+    "Nome": "NAURU"
+  },
+  {
+    "CodigoLediAps": 170,
+    "CodigoCadSus": "",
+    "Nome": "NEPAL"
+  },
+  {
+    "CodigoLediAps": 171,
+    "CodigoCadSus": "071",
+    "Nome": "NICARÁGUA"
+  },
+  {
+    "CodigoLediAps": 172,
+    "CodigoCadSus": "212",
+    "Nome": "NIGER"
+  },
+  {
+    "CodigoLediAps": 173,
+    "CodigoCadSus": "213",
+    "Nome": "NIGÉRIA"
+  },
+  {
+    "CodigoLediAps": 174,
+    "CodigoCadSus": "",
+    "Nome": "NIUE"
+  },
+  {
+    "CodigoLediAps": 175,
+    "CodigoCadSus": "119",
+    "Nome": "NORUEGA"
+  },
+  {
+    "CodigoLediAps": 176,
+    "CodigoCadSus": "",
+    "Nome": "NOVA CALEDÔNIA"
+  },
+  {
+    "CodigoLediAps": 177,
+    "CodigoCadSus": "",
+    "Nome": "NOVA ZELÂNDIA"
+  },
+  {
+    "CodigoLediAps": 178,
+    "CodigoCadSus": "",
+    "Nome": "OMÃ"
+  },
+  {
+    "CodigoLediAps": 179,
+    "CodigoCadSus": "",
+    "Nome": "PALAU"
+  },
+  {
+    "CodigoLediAps": 180,
+    "CodigoCadSus": "072",
+    "Nome": "PANAMÁ"
+  },
+  {
+    "CodigoLediAps": 181,
+    "CodigoCadSus": "214",
+    "Nome": "PAPUA NOVA GUINÉ"
+  },
+  {
+    "CodigoLediAps": 182,
+    "CodigoCadSus": "",
+    "Nome": "PAQUISTÃO"
+  },
+  {
+    "CodigoLediAps": 183,
+    "CodigoCadSus": "024",
+    "Nome": "PARAGUAI"
+  },
+  {
+    "CodigoLediAps": 184,
+    "CodigoCadSus": "089",
+    "Nome": "PERU"
+  },
+  {
+    "CodigoLediAps": 185,
+    "CodigoCadSus": "",
+    "Nome": "POLINÉSIA FRANCESA"
+  },
+  {
+    "CodigoLediAps": 186,
+    "CodigoCadSus": "123",
+    "Nome": "POLÔNIA"
+  },
+  {
+    "CodigoLediAps": 187,
+    "CodigoCadSus": "074",
+    "Nome": "PORTO RICO"
+  },
+  {
+    "CodigoLediAps": 188,
+    "CodigoCadSus": "045",
+    "Nome": "PORTUGAL"
+  },
+  {
+    "CodigoLediAps": 189,
+    "CodigoCadSus": "217",
+    "Nome": "QUÊNIA"
+  },
+  {
+    "CodigoLediAps": 190,
+    "CodigoCadSus": "160",
+    "Nome": "QUIRGUÍZIA (QUIRGUISTAO)"
+  },
+  {
+    "CodigoLediAps": 191,
+    "CodigoCadSus": "218",
+    "Nome": "REPÚBLICA CENTRO-AFRICANA"
+  },
+  {
+    "CodigoLediAps": 192,
+    "CodigoCadSus": "055",
+    "Nome": "REPÚBLICA DOMINICANA"
+  },
+  {
+    "CodigoLediAps": 193,
+    "CodigoCadSus": "135",
+    "Nome": "REPÚBLICA TCHECA"
+  },
+  {
+    "CodigoLediAps": 194,
+    "CodigoCadSus": "124",
+    "Nome": "ROMÊNIA"
+  },
+  {
+    "CodigoLediAps": 195,
+    "CodigoCadSus": "221",
+    "Nome": "RUANDA"
+  },
+  {
+    "CodigoLediAps": 196,
+    "CodigoCadSus": "222",
+    "Nome": "SAHARA OCIDENTAL"
+  },
+  {
+    "CodigoLediAps": 197,
+    "CodigoCadSus": "",
+    "Nome": "SAMOA AMERICANA"
+  },
+  {
+    "CodigoLediAps": 198,
+    "CodigoCadSus": "",
+    "Nome": "SAMOA OCIDENTAL"
+  },
+  {
+    "CodigoLediAps": 199,
+    "CodigoCadSus": "125",
+    "Nome": "SAN MARINO"
+  },
+  {
+    "CodigoLediAps": 200,
+    "CodigoCadSus": "077",
+    "Nome": "SANTA LÚCIA"
+  },
+  {
+    "CodigoLediAps": 201,
+    "CodigoCadSus": "078",
+    "Nome": "SÃO CRISTÓVÃO E NÉVIS"
+  },
+  {
+    "CodigoLediAps": 202,
+    "CodigoCadSus": "086",
+    "Nome": "SÃO PIERRE E MIQUELON"
+  },
+  {
+    "CodigoLediAps": 203,
+    "CodigoCadSus": "224",
+    "Nome": "SÃO TOMÉ E PRÍNCIPE"
+  },
+  {
+    "CodigoLediAps": 204,
+    "CodigoCadSus": "079",
+    "Nome": "SÃO VICENTE E GRANADINAS"
+  },
+  {
+    "CodigoLediAps": 205,
+    "CodigoCadSus": "225",
+    "Nome": "SEICHELES"
+  },
+  {
+    "CodigoLediAps": 206,
+    "CodigoCadSus": "",
+    "Nome": "SENEGAL"
+  },
+  {
+    "CodigoLediAps": 207,
+    "CodigoCadSus": "226",
+    "Nome": "SERRA LEOA"
+  },
+  {
+    "CodigoLediAps": 208,
+    "CodigoCadSus": "",
+    "Nome": "SÍRIA"
+  },
+  {
+    "CodigoLediAps": 209,
+    "CodigoCadSus": "227",
+    "Nome": "SOMÁLIA"
+  },
+  {
+    "CodigoLediAps": 210,
+    "CodigoCadSus": "",
+    "Nome": "SRI LANKA"
+  },
+  {
+    "CodigoLediAps": 211,
+    "CodigoCadSus": "228",
+    "Nome": "SUAZILÂNDIA"
+  },
+  {
+    "CodigoLediAps": 212,
+    "CodigoCadSus": "229",
+    "Nome": "SUDÃO"
+  },
+  {
+    "CodigoLediAps": 213,
+    "CodigoCadSus": "126",
+    "Nome": "SUÉCIA"
+  },
+  {
+    "CodigoLediAps": 214,
+    "CodigoCadSus": "038",
+    "Nome": "SUÍÇA"
+  },
+  {
+    "CodigoLediAps": 215,
+    "CodigoCadSus": "090",
+    "Nome": "SURINAME"
+  },
+  {
+    "CodigoLediAps": 216,
+    "CodigoCadSus": "161",
+    "Nome": "TADJIQUISTÃO"
+  },
+  {
+    "CodigoLediAps": 217,
+    "CodigoCadSus": "",
+    "Nome": "TAILÂNDIA"
+  },
+  {
+    "CodigoLediAps": 218,
+    "CodigoCadSus": "249",
+    "Nome": "TAIWAN"
+  },
+  {
+    "CodigoLediAps": 219,
+    "CodigoCadSus": "",
+    "Nome": "TANZÂNIA"
+  },
+  {
+    "CodigoLediAps": 220,
+    "CodigoCadSus": "",
+    "Nome": "TERRITÓRIOS FRANCESES MERIDIONAIS"
+  },
+  {
+    "CodigoLediAps": 221,
+    "CodigoCadSus": "",
+    "Nome": "TIMOR LESTE"
+  },
+  {
+    "CodigoLediAps": 222,
+    "CodigoCadSus": "233",
+    "Nome": "TOGO"
+  },
+  {
+    "CodigoLediAps": 223,
+    "CodigoCadSus": "",
+    "Nome": "TONGA"
+  },
+  {
+    "CodigoLediAps": 224,
+    "CodigoCadSus": "091",
+    "Nome": "TRINIDAD E TOBAGO"
+  },
+  {
+    "CodigoLediAps": 225,
+    "CodigoCadSus": "234",
+    "Nome": "TUNÍSIA"
+  },
+  {
+    "CodigoLediAps": 226,
+    "CodigoCadSus": "163",
+    "Nome": "TURCOMÊNIA (TURCOMENISTAO)"
+  },
+  {
+    "CodigoLediAps": 227,
+    "CodigoCadSus": "",
+    "Nome": "TURQUIA"
+  },
+  {
+    "CodigoLediAps": 228,
+    "CodigoCadSus": "",
+    "Nome": "TUVALU"
+  },
+  {
+    "CodigoLediAps": 229,
+    "CodigoCadSus": "165",
+    "Nome": "UCRÂNIA"
+  },
+  {
+    "CodigoLediAps": 230,
+    "CodigoCadSus": "235",
+    "Nome": "UGANDA"
+  },
+  {
+    "CodigoLediAps": 231,
+    "CodigoCadSus": "025",
+    "Nome": "URUGUAI"
+  },
+  {
+    "CodigoLediAps": 232,
+    "CodigoCadSus": "168",
+    "Nome": "UZBEQUISTÃO"
+  },
+  {
+    "CodigoLediAps": 233,
+    "CodigoCadSus": "",
+    "Nome": "VANUATU"
+  },
+  {
+    "CodigoLediAps": 234,
+    "CodigoCadSus": "129",
+    "Nome": "VATICANO"
+  },
+  {
+    "CodigoLediAps": 235,
+    "CodigoCadSus": "092",
+    "Nome": "VENEZUELA"
+  },
+  {
+    "CodigoLediAps": 236,
+    "CodigoCadSus": "",
+    "Nome": "VIETNÃ"
+  },
+  {
+    "CodigoLediAps": 237,
+    "CodigoCadSus": "237",
+    "Nome": "ZÂMBIA"
+  },
+  {
+    "CodigoLediAps": 238,
+    "CodigoCadSus": "",
+    "Nome": "ZIMBÁBUE"
+  },
+  {
+    "CodigoLediAps": 239,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS GUERNSEY"
+  },
+  {
+    "CodigoLediAps": 240,
+    "CodigoCadSus": "",
+    "Nome": "JERSEY"
+  },
+  {
+    "CodigoLediAps": 241,
+    "CodigoCadSus": "137",
+    "Nome": "MONTENEGRO"
+  },
+  {
+    "CodigoLediAps": 242,
+    "CodigoCadSus": "",
+    "Nome": "ESTADO DA PALESTINA"
+  },
+  {
+    "CodigoLediAps": 243,
+    "CodigoCadSus": "131",
+    "Nome": "SÉRVIA"
+  },
+  {
+    "CodigoLediAps": 244,
+    "CodigoCadSus": "053",
+    "Nome": "CURAÇAO"
+  },
+  {
+    "CodigoLediAps": 245,
+    "CodigoCadSus": "054",
+    "Nome": "COMUNIDADE DOMINICANA"
+  },
+  {
+    "CodigoLediAps": 246,
+    "CodigoCadSus": "057",
+    "Nome": "ESTADOS ASSOC. DAS ANTILHAS"
+  },
+  {
+    "CodigoLediAps": 247,
+    "CodigoCadSus": "058",
+    "Nome": "ILHAS FALKLANDS"
+  },
+  {
+    "CodigoLediAps": 248,
+    "CodigoCadSus": "063",
+    "Nome": "HONDURAS BRITÂNICAS"
+  },
+  {
+    "CodigoLediAps": 249,
+    "CodigoCadSus": "065",
+    "Nome": "ILHAS SERRANAS"
+  },
+  {
+    "CodigoLediAps": 250,
+    "CodigoCadSus": "069",
+    "Nome": "ILHA MILHOS"
+  },
+  {
+    "CodigoLediAps": 251,
+    "CodigoCadSus": "073",
+    "Nome": "PANAMÁ (ZONA DO CANAL)"
+  },
+  {
+    "CodigoLediAps": 252,
+    "CodigoCadSus": "076",
+    "Nome": "RONCADOR"
+  },
+  {
+    "CodigoLediAps": 253,
+    "CodigoCadSus": "080",
+    "Nome": "ILHAS TURCA"
+  },
+  {
+    "CodigoLediAps": 254,
+    "CodigoCadSus": "099",
+    "Nome": "ÉIRE"
+  },
+  {
+    "CodigoLediAps": 255,
+    "CodigoCadSus": "100",
+    "Nome": "ESCÓCIA"
+  },
+  {
+    "CodigoLediAps": 256,
+    "CodigoCadSus": "107",
+    "Nome": "ILHAS BALEARES"
+  },
+  {
+    "CodigoLediAps": 257,
+    "CodigoCadSus": "108",
+    "Nome": "ILHAS COSMOLEDO (LOMORES)"
+  },
+  {
+    "CodigoLediAps": 258,
+    "CodigoCadSus": "109",
+    "Nome": "ILHAS DO CANAL"
+  },
+  {
+    "CodigoLediAps": 259,
+    "CodigoCadSus": "110",
+    "Nome": "INGLATERRA"
+  },
+  {
+    "CodigoLediAps": 260,
+    "CodigoCadSus": "111",
+    "Nome": "IRLANDA DO NORTE"
+  },
+  {
+    "CodigoLediAps": 261,
+    "CodigoCadSus": "117",
+    "Nome": "ILHAS DE MAN"
+  },
+  {
+    "CodigoLediAps": 262,
+    "CodigoCadSus": "121",
+    "Nome": "PAÍS DE GALES"
+  },
+  {
+    "CodigoLediAps": 263,
+    "CodigoCadSus": "122",
+    "Nome": "PAÍSES BAIXOS"
+  },
+  {
+    "CodigoLediAps": 264,
+    "CodigoCadSus": "128",
+    "Nome": "TCHECOSLOVÁQUIA"
+  },
+  {
+    "CodigoLediAps": 265,
+    "CodigoCadSus": "139",
+    "Nome": "BASHKISTA"
+  },
+  {
+    "CodigoLediAps": 266,
+    "CodigoCadSus": "141",
+    "Nome": "BURYAT"
+  },
+  {
+    "CodigoLediAps": 267,
+    "CodigoCadSus": "142",
+    "Nome": "CARÉLIA"
+  },
+  {
+    "CodigoLediAps": 268,
+    "CodigoCadSus": "144",
+    "Nome": "CHECHEN INGUSTH"
+  },
+  {
+    "CodigoLediAps": 269,
+    "CodigoCadSus": "145",
+    "Nome": "CHUVASH"
+  },
+  {
+    "CodigoLediAps": 270,
+    "CodigoCadSus": "146",
+    "Nome": "DAGESTA"
+  },
+  {
+    "CodigoLediAps": 271,
+    "CodigoCadSus": "149",
+    "Nome": "GORNO ALTAI"
+  },
+  {
+    "CodigoLediAps": 272,
+    "CodigoCadSus": "150",
+    "Nome": "KABARDINO BALKAR"
+  },
+  {
+    "CodigoLediAps": 273,
+    "CodigoCadSus": "151",
+    "Nome": "KALMIR"
+  },
+  {
+    "CodigoLediAps": 274,
+    "CodigoCadSus": "152",
+    "Nome": "KARACHAEVOCHERKESS"
+  },
+  {
+    "CodigoLediAps": 275,
+    "CodigoCadSus": "153",
+    "Nome": "KHAKASS"
+  },
+  {
+    "CodigoLediAps": 276,
+    "CodigoCadSus": "154",
+    "Nome": "KOMI"
+  },
+  {
+    "CodigoLediAps": 277,
+    "CodigoCadSus": "157",
+    "Nome": "MARI"
+  },
+  {
+    "CodigoLediAps": 278,
+    "CodigoCadSus": "159",
+    "Nome": "OSSETIA SETENTRIONAL"
+  },
+  {
+    "CodigoLediAps": 279,
+    "CodigoCadSus": "162",
+    "Nome": "TARTARIA"
+  },
+  {
+    "CodigoLediAps": 280,
+    "CodigoCadSus": "164",
+    "Nome": "TUVIN"
+  },
+  {
+    "CodigoLediAps": 281,
+    "CodigoCadSus": "166",
+    "Nome": "UDMURT"
+  },
+  {
+    "CodigoLediAps": 282,
+    "CodigoCadSus": "167",
+    "Nome": "UNIÃO SOVIÉTICA"
+  },
+  {
+    "CodigoLediAps": 283,
+    "CodigoCadSus": "169",
+    "Nome": "YAKUT"
+  },
+  {
+    "CodigoLediAps": 284,
+    "CodigoCadSus": "170",
+    "Nome": "ABISSÍNIA"
+  },
+  {
+    "CodigoLediAps": 285,
+    "CodigoCadSus": "171",
+    "Nome": "AÇORES"
+  },
+  {
+    "CodigoLediAps": 286,
+    "CodigoCadSus": "172",
+    "Nome": "AFAR FRANCÊS"
+  },
+  {
+    "CodigoLediAps": 287,
+    "CodigoCadSus": "174",
+    "Nome": "ALTA VOLTA"
+  },
+  {
+    "CodigoLediAps": 288,
+    "CodigoCadSus": "177",
+    "Nome": "BECHUANALÂNDIA"
+  },
+  {
+    "CodigoLediAps": 289,
+    "CodigoCadSus": "182",
+    "Nome": "CEUTA E MELILLA"
+  },
+  {
+    "CodigoLediAps": 290,
+    "CodigoCadSus": "187",
+    "Nome": "DAOMÉ"
+  },
+  {
+    "CodigoLediAps": 291,
+    "CodigoCadSus": "194",
+    "Nome": "GAZA"
+  },
+  {
+    "CodigoLediAps": 292,
+    "CodigoCadSus": "197",
+    "Nome": "IFNI"
+  },
+  {
+    "CodigoLediAps": 293,
+    "CodigoCadSus": "198",
+    "Nome": "ASCENSÃO E TRISTÃO DA CUNHA,IS"
+  },
+  {
+    "CodigoLediAps": 294,
+    "CodigoCadSus": "199",
+    "Nome": "ILHAS CANÁRIAS"
+  },
+  {
+    "CodigoLediAps": 295,
+    "CodigoCadSus": "203",
+    "Nome": "MADEIRA"
+  },
+  {
+    "CodigoLediAps": 296,
+    "CodigoCadSus": "204",
+    "Nome": "MALAWI"
+  },
+  {
+    "CodigoLediAps": 297,
+    "CodigoCadSus": "211",
+    "Nome": "NGUANE"
+  },
+  {
+    "CodigoLediAps": 298,
+    "CodigoCadSus": "215",
+    "Nome": "PRAÇAS NORTE AFRICANAS"
+  },
+  {
+    "CodigoLediAps": 299,
+    "CodigoCadSus": "216",
+    "Nome": "PROTETOR DO SUDOESTE AFRICANO"
+  },
+  {
+    "CodigoLediAps": 300,
+    "CodigoCadSus": "220",
+    "Nome": "RODÉSIA (ZIMBABWE)"
+  },
+  {
+    "CodigoLediAps": 301,
+    "CodigoCadSus": "230",
+    "Nome": "TANGANICA"
+  },
+  {
+    "CodigoLediAps": 302,
+    "CodigoCadSus": "231",
+    "Nome": "TERRIT. BRITÂNICO DO OCEANO ÍNDICO"
+  },
+  {
+    "CodigoLediAps": 303,
+    "CodigoCadSus": "232",
+    "Nome": "TRANSKEI"
+  },
+  {
+    "CodigoLediAps": 304,
+    "CodigoCadSus": "236",
+    "Nome": "ZAIRE"
+  },
+  {
+    "CodigoLediAps": 305,
+    "CodigoCadSus": "244",
+    "Nome": "BIRMÂNIA"
+  },
+  {
+    "CodigoLediAps": 306,
+    "CodigoCadSus": "248",
+    "Nome": "CEILÃO"
+  },
+  {
+    "CodigoLediAps": 307,
+    "CodigoCadSus": "250",
+    "Nome": "COVEITE"
+  },
+  {
+    "CodigoLediAps": 308,
+    "CodigoCadSus": "",
+    "Nome": "MASCATE"
+  },
+  {
+    "CodigoLediAps": 309,
+    "CodigoCadSus": "",
+    "Nome": "RUIQUIU,IS"
+  },
+  {
+    "CodigoLediAps": 310,
+    "CodigoCadSus": "",
+    "Nome": "SEQUIN"
+  },
+  {
+    "CodigoLediAps": 311,
+    "CodigoCadSus": "",
+    "Nome": "TRÉGUA, ESTADO"
+  },
+  {
+    "CodigoLediAps": 312,
+    "CodigoCadSus": "",
+    "Nome": "VIETNÃ DO SUL"
+  },
+  {
+    "CodigoLediAps": 313,
+    "CodigoCadSus": "",
+    "Nome": "ARQUIPÉLAGO MANAHIKI"
+  },
+  {
+    "CodigoLediAps": 314,
+    "CodigoCadSus": "",
+    "Nome": "ARQUIPÉLAGO MIDWAY"
+  },
+  {
+    "CodigoLediAps": 315,
+    "CodigoCadSus": "",
+    "Nome": "ASHMORE E CARTIER"
+  },
+  {
+    "CodigoLediAps": 316,
+    "CodigoCadSus": "",
+    "Nome": "ARQUIPÉLAGO DE BISMARK"
+  },
+  {
+    "CodigoLediAps": 317,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS BAKER"
+  },
+  {
+    "CodigoLediAps": 318,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS CANTÃO E ENDERBURG"
+  },
+  {
+    "CodigoLediAps": 319,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS DO PACÍFICO"
+  },
+  {
+    "CodigoLediAps": 320,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS GILBERT"
+  },
+  {
+    "CodigoLediAps": 321,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS HOWLAND E JARVIS"
+  },
+  {
+    "CodigoLediAps": 322,
+    "CodigoCadSus": "",
+    "Nome": "ILHA JOHNSTON E SAND"
+  },
+  {
+    "CodigoLediAps": 323,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS KINGMAN REEF"
+  },
+  {
+    "CodigoLediAps": 324,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS MACQUAIRE"
+  },
+  {
+    "CodigoLediAps": 325,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS WAKE"
+  },
+  {
+    "CodigoLediAps": 326,
+    "CodigoCadSus": "",
+    "Nome": "KALIMATAN"
+  },
+  {
+    "CodigoLediAps": 327,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS LINHA"
+  },
+  {
+    "CodigoLediAps": 328,
+    "CodigoCadSus": "",
+    "Nome": "NOVA GUINÉ"
+  },
+  {
+    "CodigoLediAps": 329,
+    "CodigoCadSus": "",
+    "Nome": "TERRITÓRIO DE PAPUA"
+  },
+  {
+    "CodigoLediAps": 330,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS PÁSCOA"
+  },
+  {
+    "CodigoLediAps": 331,
+    "CodigoCadSus": "",
+    "Nome": "SABAH"
+  },
+  {
+    "CodigoLediAps": 332,
+    "CodigoCadSus": "",
+    "Nome": "ILHAS SANTA CRUZ"
+  },
+  {
+    "CodigoLediAps": 333,
+    "CodigoCadSus": "",
+    "Nome": "SARAWAK"
+  },
+  {
+    "CodigoLediAps": 334,
+    "CodigoCadSus": "",
+    "Nome": "ANTÁRTICO BRITÂNICO, TERRITÓRIO"
+  },
+  {
+    "CodigoLediAps": 335,
+    "CodigoCadSus": "",
+    "Nome": "TERR. ANTÁRTICO DA AUSTRÁLIA"
+  },
+  {
+    "CodigoLediAps": 336,
+    "CodigoCadSus": "",
+    "Nome": "ANTÁRTICO CHILENO"
+  },
+  {
+    "CodigoLediAps": 337,
+    "CodigoCadSus": "",
+    "Nome": "ANTÁRTICO ARGENTINO"
+  },
+  {
+    "CodigoLediAps": 338,
+    "CodigoCadSus": "",
+    "Nome": "ANTÁRTICO NORUEGUÊS"
+  },
+  {
+    "CodigoLediAps": 339,
+    "CodigoCadSus": "",
+    "Nome": "APÁTRIDA"
+  },
+  {
+    "CodigoLediAps": 340,
+    "CodigoCadSus": "",
+    "Nome": "DEPENDÊNCIA DE ROSS"
+  },
+  {
+    "CodigoLediAps": 341,
+    "CodigoCadSus": "",
+    "Nome": "TERRAS AUSTRAIS"
+  },
+  {
+    "CodigoLediAps": 342,
+    "CodigoCadSus": "",
+    "Nome": "IÊMEN DO SUL"
+  },
+  {
+    "CodigoLediAps": 343,
+    "CodigoCadSus": "",
+    "Nome": "KARA KALPAK"
+  },
+  {
+    "CodigoLediAps": 344,
+    "CodigoCadSus": "",
+    "Nome": "REPÚBLICA DO SUDÃO DO SUL"
+  },
+  {
+    "CodigoLediAps": 345,
+    "CodigoCadSus": "",
+    "Nome": "CONGO, REPÚBLICA DO (BRAZZAVILLE)"
+  },
+  {
+    "CodigoLediAps": 346,
+    "CodigoCadSus": "075",
+    "Nome": "QUITASUENO"
+  },
+  {
+    "CodigoLediAps": 0,
+    "CodigoCadSus": "020",
+    "Nome": "RESERVADO"
+  },
+  {
+    "CodigoLediAps": 0,
+    "CodigoCadSus": "043",
+    "Nome": "COREIA"
+  },
+  {
+    "CodigoLediAps": 0,
+    "CodigoCadSus": "048",
+    "Nome": "RESERVADO"
+  },
+  {
+    "CodigoLediAps": 0,
+    "CodigoCadSus": "049",
+    "Nome": "RESERVADO"
+  },
+  {
+    "CodigoLediAps": 0,
+    "CodigoCadSus": "050",
+    "Nome": "RESERVADO"
+  },
+  {
+    "CodigoLediAps": 0,
+    "CodigoCadSus": "140",
+    "Nome": "REPUBLICA DA BIELORRUSSIA"
+  },
+  {
+    "CodigoLediAps": 0,
+    "CodigoCadSus": "239",
+    "Nome": "ZIMBABWE"
+  }
+]

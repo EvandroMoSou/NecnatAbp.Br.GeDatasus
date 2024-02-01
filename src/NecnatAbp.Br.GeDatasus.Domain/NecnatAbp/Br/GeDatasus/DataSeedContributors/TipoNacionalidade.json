@@ -1,0 +1,17 @@
+[
+  {
+    "CodigoLediAps": 1,
+    "CodigoCadSus": "B",
+    "Nome": "Brasileira"
+  },
+  {
+    "CodigoLediAps": 2,
+    "CodigoCadSus": "N",
+    "Nome": "Naturalizado"
+  },
+  {
+    "CodigoLediAps": 3,
+    "CodigoCadSus": "E",
+    "Nome": "Estrangeiro"
+  }
+]

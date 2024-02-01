@@ -1,0 +1,17 @@
+[
+  {
+    "CodigoLediAps": 0,
+    "Sigla": "M",
+    "Nome": "Masculino"
+  },
+  {
+    "CodigoLediAps": 1,
+    "Sigla": "F",
+    "Nome": "Feminino"
+  },
+  {
+    "CodigoLediAps": 4,
+    "Sigla": "I",
+    "Nome": "Ignorado"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "CodigoCadSus": "60",
+    "Nome": "CARTEIRA DE IDENTIDADE CLASSISTA"
+  },
+  {
+    "CodigoCadSus": "89",
+    "Nome": "CARTEIRA NACIONAL DE HABILITAÇÃO"
+  },
+  {
+    "CodigoCadSus": "61",
+    "Nome": "CONSELHO REGIONAL DE ADMINISTRACAO"
+  },
+  {
+    "CodigoCadSus": "62",
+    "Nome": "CONSELHO REGIONAL DE ASSISTENTES SOCIAIS"
+  },
+  {
+    "CodigoCadSus": "63",
+    "Nome": "CONSELHO REGIONAL DE BIBLIOTECONOMIA"
+  },
+  {
+    "CodigoCadSus": "64",
+    "Nome": "CONSELHO REGIONAL DE CONTABILIDADE"
+  },
+  {
+    "CodigoCadSus": "65",
+    "Nome": "CONSELHO REGIONAL DE CORRETORES DE IMOVEIS"
+  },
+  {
+    "CodigoCadSus": "83",
+    "Nome": "CONSELHO REGIONAL DE ECONOMIA"
+  },
+  {
+    "CodigoCadSus": "66",
+    "Nome": "CONSELHO REGIONAL DE ENFERMAGEM"
+  },
+  {
+    "CodigoCadSus": "67",
+    "Nome": "CONSELHO REGIONAL DE ENGENHARIA ARQUITETURA E AGRONOMIA"
+  },
+  {
+    "CodigoCadSus": "68",
+    "Nome": "CONSELHO REGIONAL DE ESTATISTICA"
+  },
+  {
+    "CodigoCadSus": "69",
+    "Nome": "CONSELHO REGIONAL DE FARMACIA"
+  },
+  {
+    "CodigoCadSus": "70",
+    "Nome": "CONSELHO REGIONAL DE FISIOTERAPIA E TERAPIA OCUPACIONAL"
+  },
+  {
+    "CodigoCadSus": "71",
+    "Nome": "CONSELHO REGIONAL DE MEDICINA"
+  },
+  {
+    "CodigoCadSus": "72",
+    "Nome": "CONSELHO REGIONAL DE MEDICINA VETERINARIA"
+  },
+  {
+    "CodigoCadSus": "74",
+    "Nome": "CONSELHO REGIONAL DE NUTRICAO"
+  },
+  {
+    "CodigoCadSus": "75",
+    "Nome": "CONSELHO REGIONAL DE ODONTOLOGIA"
+  },
+  {
+    "CodigoCadSus": "76",
+    "Nome": "CONSELHO REGIONAL DE PROFISSIONAIS DE RELACOES PUBLICAS"
+  },
+  {
+    "CodigoCadSus": "77",
+    "Nome": "CONSELHO REGIONAL DE PSICOLOGIA"
+  },
+  {
+    "CodigoCadSus": "78",
+    "Nome": "CONSELHO REGIONAL DE QUIMICA"
+  },
+  {
+    "CodigoCadSus": "79",
+    "Nome": "CONSELHO REGIONAL DE REPRESENTANTES COMERCIAIS"
+  },
+  {
+    "CodigoCadSus": "82",
+    "Nome": "DOCUMENTOS ESTRANGEIROS"
+  },
+  {
+    "CodigoCadSus": "41",
+    "Nome": "MINISTERIO DA AERONAUTICA"
+  },
+  {
+    "CodigoCadSus": "43",
+    "Nome": "MINISTERIO DA MARINHA"
+  },
+  {
+    "CodigoCadSus": "42",
+    "Nome": "MINISTERIO DO EXERCITO"
+  },
+  {
+    "CodigoCadSus": "80",
+    "Nome": "ORDEM DOS ADVOGADOS DO BRASIL"
+  },
+  {
+    "CodigoCadSus": "73",
+    "Nome": "ORDENS DOS MUSICOS DO BRASIL"
+  },
+  {
+    "CodigoCadSus": "40",
+    "Nome": "ORGANISMO MILITAR OU MINISTERIO DA DEFESA"
+  },
+  {
+    "CodigoCadSus": "81",
+    "Nome": "OUTROS EMISSORES"
+  },
+  {
+    "CodigoCadSus": "44",
+    "Nome": "POLICIA FEDERAL"
+  },
+  {
+    "CodigoCadSus": "10",
+    "Nome": "SSP - SECRETARIA DE SEGURANCA PUBLICA"
+  }
+]

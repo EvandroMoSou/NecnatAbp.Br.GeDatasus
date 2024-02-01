@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoCadSus": "15",
+    "Nome": "CERTIDÃO DE ÓBITO"
+  },
+  {
+    "CodigoCadSus": "91",
+    "Nome": "CERTIDÃO DE NASCIMENTO"
+  },
+  {
+    "CodigoCadSus": "92",
+    "Nome": "CERTIDÃO DE CASAMENTO"
+  },
+  {
+    "CodigoCadSus": "93",
+    "Nome": "CERTIDÃO DE SEPARADO OU DIVORCIADO"
+  },
+  {
+    "CodigoCadSus": "95",
+    "Nome": "RANI – REGISTRO ADMINISTRATIVO INDIGENA"
+  }
+]
