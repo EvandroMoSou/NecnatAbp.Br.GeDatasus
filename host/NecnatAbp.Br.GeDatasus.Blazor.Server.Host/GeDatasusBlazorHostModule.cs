@@ -244,7 +244,9 @@ public class GeDatasusBlazorHostModule : AbpModule
 
         if (MultiTenancyConsts.IsEnabled)
         {
+#pragma warning disable CS0162 // Unreachable code detected
             app.UseMultiTenancy();
+#pragma warning restore CS0162 // Unreachable code detected
         }
 
         app.UseUnitOfWork();

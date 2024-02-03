@@ -10,8 +10,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NecnatAbp.Br.GeGeocodificacao.Domain.Shared" Version="8.0.2-rc004" />
-    <PackageReference Include="NecnatAbp.Br.GePessoaFisica.Domain.Shared" Version="8.0.2-xTest002" />
     <PackageReference Include="NecnatAbp.Domain.Shared" Version="8.0.2-rc002" />
     <PackageReference Include="NecnatAbp.HierarchyManagement.Domain.Shared" Version="8.0.2-rc003" />
     <PackageReference Include="Volo.Abp.Ddd.Domain.Shared" Version="8.0.2" />

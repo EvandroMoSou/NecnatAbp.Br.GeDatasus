@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using NecnatAbp.Br.GeDatasus.Addition.GeGeocodificacao;
 using NecnatAbp.Br.GeGeocodificacao;
 using NecnatAbp.Br.GePessoaFisica;
 using NecnatAbp.Br.GePessoaFisica.Helpers;
@@ -28,7 +27,7 @@ namespace NecnatAbp.Br.GeDatasus.Converters
         private readonly ICidadeMunicipioRepository _cidadeMunicipioRepository;
         private readonly IEtniaRepository _etniaRepository;
         private readonly IOrgaoEmissorRepository _orgaoEmissorRepository;
-        private readonly IDatasusPaisRepository _paisRepository;
+        private readonly IPaisRepository _paisRepository;
         private readonly IPortariaNaturalizacaoRepository _portariaNaturalizacaoRepository;
         private readonly ITipoLogradouroRepository _tipoLogradouroRepository;
 
@@ -37,7 +36,7 @@ namespace NecnatAbp.Br.GeDatasus.Converters
             ICidadeMunicipioRepository cidadeMunicipioRepository,
             IEtniaRepository etniaRepository,
             IOrgaoEmissorRepository orgaoEmissorRepository,
-            IDatasusPaisRepository paisRepository,
+            IPaisRepository paisRepository,
             IPortariaNaturalizacaoRepository portariaNaturalizacaoRepository,
             ITipoLogradouroRepository tipoLogradouroRepository)
         {
@@ -351,7 +350,7 @@ namespace NecnatAbp.Br.GeDatasus.Converters
                 var countryBirthPlace = addrBirthPlace["country"];
                 if (countryBirthPlace != null)
                 {
-                    var pais = await _paisRepository.GetByCodigoCadSus(countryBirthPlace.InnerText);
+                    var pais = await _paisRepository.GetByCodigoCadSusAsync(countryBirthPlace.InnerText);
                     if (pais == null)
                         throw new NotImplementedException();
                     pessoaFisica.NacionalidadeIdPais = ObjectMapper.Map<Pais, PaisDto>(pais);
@@ -403,7 +402,7 @@ namespace NecnatAbp.Br.GeDatasus.Converters
             if (string.IsNullOrEmpty(xmlNode.Attributes?["code"]?.Value))
                 return pessoaFisica;
 
-            var etnia = await _etniaRepository.GetByCodigoCadSus(xmlNode.Attributes!["code"]!.Value);
+            var etnia = await _etniaRepository.GetByCodigoCadSusAsync(xmlNode.Attributes!["code"]!.Value);
             if (etnia == null)
                 throw new NotImplementedException();
             pessoaFisica.Etnia = ObjectMapper.Map<Etnia, EtniaDto>(etnia);
@@ -812,7 +811,7 @@ namespace NecnatAbp.Br.GeDatasus.Converters
                         var extensionAttribute = iXmlNode.Attributes["extension"];
                         if (extensionAttribute != null)
                         {
-                            var portariaNaturalizacao = await _portariaNaturalizacaoRepository.GetByNome(extensionAttribute.Value);
+                            var portariaNaturalizacao = await _portariaNaturalizacaoRepository.GetByNomeIncompletoAsync(extensionAttribute.Value);
                             if (portariaNaturalizacao == null)
                                 throw new NotImplementedException();
                             pessoaFisica.PortariaNaturalizacao = ObjectMapper.Map<PortariaNaturalizacao, PortariaNaturalizacaoDto>(portariaNaturalizacao);
@@ -871,7 +870,7 @@ namespace NecnatAbp.Br.GeDatasus.Converters
                         var extensionAttribute = iXmlNode.Attributes["extension"];
                         if (extensionAttribute != null)
                         {
-                            var orgaoEmissor = await _orgaoEmissorRepository.GetByCodigoCadSus(extensionAttribute.Value);
+                            var orgaoEmissor = await _orgaoEmissorRepository.GetByCodigoCadSusAsync(extensionAttribute.Value);
                             if (orgaoEmissor == null)
                                 throw new NotImplementedException();
                             rg.OrgaoEmissor = ObjectMapper.Map<OrgaoEmissor, OrgaoEmissorDto>(orgaoEmissor);

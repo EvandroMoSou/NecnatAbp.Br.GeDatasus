@@ -10,8 +10,6 @@
 
   <ItemGroup>
     <PackageReference Include="NecnatAbp.Application.Contracts" Version="8.0.2-rc002" />
-    <PackageReference Include="NecnatAbp.Br.GeGeocodificacao.Application.Contracts" Version="8.0.2-rc005" />
-    <PackageReference Include="NecnatAbp.Br.GePessoaFisica.Application.Contracts" Version="8.0.2-xTest002" />
     <PackageReference Include="NecnatAbp.HierarchyManagement.Application.Contracts" Version="8.0.2-rc003" />
     <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="8.0.2" />
     <PackageReference Include="Volo.Abp.Authorization" Version="8.0.2" />
