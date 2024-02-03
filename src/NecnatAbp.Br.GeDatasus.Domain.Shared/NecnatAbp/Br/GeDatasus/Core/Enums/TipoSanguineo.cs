@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace NecnatAbp.Br.GeDatasus
+namespace NecnatAbp.Br.GeDatasus.Core.Enums
 {
     public enum TipoSanguineo
     {
