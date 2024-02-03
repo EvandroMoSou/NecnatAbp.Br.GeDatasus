@@ -9,9 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NecnatAbp.Application" Version="8.0.2-rc001" />
-    <PackageReference Include="NecnatAbp.Br.GeGeocodificacao.Application" Version="8.0.2-rc003" />
-    <PackageReference Include="NecnatAbp.Br.GePessoaFisica.Application" Version="8.0.2-xTest001" />
+    <PackageReference Include="NecnatAbp.Application" Version="8.0.2-rc002" />
+    <PackageReference Include="NecnatAbp.Br.GeGeocodificacao.Application" Version="8.0.2-rc004" />
+    <PackageReference Include="NecnatAbp.Br.GePessoaFisica.Application" Version="8.0.2-xTest002" />
+    <PackageReference Include="NecnatAbp.HierarchyManagement.Application" Version="8.0.2-rc002" />
     <PackageReference Include="Volo.Abp.AutoMapper" Version="8.0.2" />
     <PackageReference Include="Volo.Abp.Ddd.Application" Version="8.0.2" />
     <ProjectReference Include="..\NecnatAbp.Br.GeDatasus.Application.Contracts\NecnatAbp.Br.GeDatasus.Application.Contracts.csproj" />

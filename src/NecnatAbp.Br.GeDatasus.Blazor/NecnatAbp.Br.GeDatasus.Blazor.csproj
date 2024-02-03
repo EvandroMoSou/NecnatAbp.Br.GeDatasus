@@ -8,6 +8,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="NecnatAbp.Blazor" Version="8.0.2-rc002" />
+        <PackageReference Include="NecnatAbp.Br.GeGeocodificacao.Blazor" Version="8.0.2-rc004" />
+        <PackageReference Include="NecnatAbp.Br.GePessoaFisica.Blazor" Version="8.0.2-xTest002" />
+        <PackageReference Include="NecnatAbp.HierarchyManagement.Blazor" Version="8.0.2-rc005" />
         <PackageReference Include="Volo.Abp.AutoMapper" Version="8.0.2" />
         <PackageReference Include="Volo.Abp.AspNetCore.Components.Web.Theming" Version="8.0.2" />
     </ItemGroup>
