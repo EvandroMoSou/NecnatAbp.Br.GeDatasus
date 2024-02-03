@@ -9,29 +9,29 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\CorRaca.json" />
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\Etnia.json" />
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\OrgaoEmissor.json" />
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\Pais.json" />
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\Sexo.json" />
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\TipoCertidao.json" />
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\TipoLogradouro.json" />
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\TipoNacionalidade.json" />
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\TipoTelefone.json" />
-    <None Remove="NecnatAbp\Br\GeDatasus\DataSeedContributors\UnidadeFederativa.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\CorRaca.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\Etnia.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\OrgaoEmissor.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\Pais.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\Sexo.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\TipoCertidao.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\TipoLogradouro.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\TipoNacionalidade.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\TipoTelefone.json" />
+    <None Remove="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\UnidadeFederativa.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\CorRaca.json" />
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\Etnia.json" />
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\OrgaoEmissor.json" />
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\Pais.json" />
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\Sexo.json" />
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\TipoCertidao.json" />
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\TipoLogradouro.json" />
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\TipoNacionalidade.json" />
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\TipoTelefone.json" />
-    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\DataSeedContributors\UnidadeFederativa.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\CorRaca.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\Etnia.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\OrgaoEmissor.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\Pais.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\Sexo.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\TipoCertidao.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\TipoLogradouro.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\TipoNacionalidade.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\TipoTelefone.json" />
+    <EmbeddedResource Include="NecnatAbp\Br\GeDatasus\Core\DataSeedContributors\UnidadeFederativa.json" />
   </ItemGroup>
 
   <ItemGroup>

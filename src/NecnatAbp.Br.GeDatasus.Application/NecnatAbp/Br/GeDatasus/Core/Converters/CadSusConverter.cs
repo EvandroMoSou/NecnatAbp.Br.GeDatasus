@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using NecnatAbp.Br.GeDatasus.Core.Converters;
 using NecnatAbp.Br.GeGeocodificacao;
 using NecnatAbp.Br.GePessoaFisica;
 using NecnatAbp.Br.GePessoaFisica.Helpers;
@@ -10,7 +11,7 @@ using System.Xml;
 using Volo.Abp.DependencyInjection;
 using Volo.Abp.ObjectMapping;
 
-namespace NecnatAbp.Br.GeDatasus.Converters
+namespace NecnatAbp.Br.GeDatasus
 {
     public class CadSusConverter : ICadSusConverter
     {
